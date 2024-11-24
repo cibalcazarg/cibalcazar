@@ -11,6 +11,19 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+			/* Estilo básico para las secciones */
+			.section {
+				display: none;
+				padding: 20px;
+				background-color: rgba(0, 0, 0, 0.5);
+				border-radius: 8px;
+				margin-top: 20px;
+			}
+			#about, #cv, #portfolio {
+				display: none;
+			}
+		</style>
 	</head>
 	<body class="is-preload">
 		<div id="wrapper">
@@ -19,28 +32,73 @@
 			<div id="main">
 
 				<!-- Header -->
-					<header id="header">
-						<h1>Carla Balcazar Gallegos</h1>
-						<p>Remote Sensing &nbsp;&bull;&nbsp; Climate Change &nbsp;&bull;&nbsp; Earth science</p>
-						<nav>
-							<ul>
-								<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">Linkedin</span></a></li>
-								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-								<li><a href="#" class="icon brands fa-tiktok"><span class="label">Tik Tok</span></a></li>
-								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-							</ul>
-						</nav>
-					</header>
+				<header id="header">
+					<h1>Carla Balcazar Gallegos</h1>
+					<p>Remote Sensing &nbsp;&bull;&nbsp; Climate Change &nbsp;&bull;&nbsp; Earth science</p>
+					<nav>
+						<ul>
+							<li><a href="https://www.linkedin.com/in/tu-perfil" class="icon brands fa-linkedin-in"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://github.com/tu-usuario" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://www.tiktok.com/@tu-usuario" class="icon brands fa-tiktok"><span class="label">TikTok</span></a></li>
+						</ul>
+					</nav>
+				</header>
+
+				<!-- Navegación de pestañas -->
+				<nav>
+					<ul>
+						<li><a href="javascript:void(0)" onclick="showSection('about')">Sobre mí</a></li>
+						<li><a href="javascript:void(0)" onclick="showSection('cv')">CV</a></li>
+						<li><a href="javascript:void(0)" onclick="showSection('portfolio')">Portafolio</a></li>
+					</ul>
+				</nav>
+
+				<!-- Secciones -->
+				<div id="about" class="section">
+					<h2>Sobre mí</h2>
+					<p>Aquí puedes escribir una breve descripción sobre ti...</p>
+				</div>
+				
+				<div id="cv" class="section">
+					<h2>Currículum Vitae</h2>
+					<p>Aquí puedes incluir un enlace para descargar tu CV o más información.</p>
+					<a href="ruta/a/tu/cv.pdf" target="_blank">Descargar CV</a>
+				</div>
+
+				<div id="portfolio" class="section">
+					<h2>Portafolio</h2>
+					<p>Aquí puedes mostrar algunos de tus proyectos, imágenes o enlaces relevantes.</p>
+					<a href="https://tu-portafolio.com" target="_blank">Ver Portafolio</a>
+				</div>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<span class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
-					</footer>
+				<footer id="footer">
+					<span class="copyright">&copy; Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+				</footer>
 
 			</div>
 		</div>
+
 		<script>
-			window.onload = function() { document.body.classList.remove('is-preload'); }
+			// Mostrar la sección correspondiente
+			function showSection(sectionId) {
+				// Ocultar todas las secciones
+				var sections = document.querySelectorAll('.section');
+				sections.forEach(function(section) {
+					section.style.display = 'none';
+				});
+				
+				// Mostrar la sección seleccionada
+				document.getElementById(sectionId).style.display = 'block';
+			}
+
+			// Mostrar la primera sección por defecto (Sobre mí)
+			window.onload = function() {
+				showSection('about');
+				document.body.classList.remove('is-preload');
+			}
+
+			// Prevenir el desplazamiento en pantallas táctiles
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
