@@ -12,6 +12,30 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
+			/* Estilo para las pestañas */
+			nav ul {
+				list-style: none;
+				padding: 0;
+				text-align: center;
+				background-color: #333;
+				margin: 0;
+			}
+			nav ul li {
+				display: inline-block;
+			}
+			nav ul li a {
+				display: block;
+				padding: 14px 20px;
+				color: white;
+				text-decoration: none;
+				background-color: #333;
+				border-right: 1px solid #444;
+				transition: background-color 0.3s ease;
+			}
+			nav ul li a:hover {
+				background-color: #555;
+			}
+
 			/* Estilo básico para las secciones */
 			.section {
 				display: none;
@@ -35,23 +59,16 @@
 				<header id="header">
 					<h1>Carla Balcazar Gallegos</h1>
 					<p>Remote Sensing &nbsp;&bull;&nbsp; Climate Change &nbsp;&bull;&nbsp; Earth science</p>
+					
+					<!-- Pestañas en la parte superior -->
 					<nav>
 						<ul>
-							<li><a href="https://www.linkedin.com/in/cibalcazar/" class="icon brands fa-linkedin-in"><span class="label">Linkedin</span></a></li>
-							<li><a href="https://github.com/cibalcazarg" class="icon brands fa-github"><span class="label">Github</span></a></li>
-							<li><a href="https://www.tiktok.com/@carla_balcazar?_t=ZM-8rec9U0pCCt&_r=1" class="icon brands fa-tiktok"><span class="label">TikTok</span></a></li>
+							<li><a href="#about">Acerca de mí</a></li>
+							<li><a href="#cv">CV</a></li>
+							<li><a href="#portfolio">Portafolio</a></li>
 						</ul>
 					</nav>
 				</header>
-
-				<!-- Navegación de pestañas -->
-				<nav>
-					<ul>
-						<li><a href="javascript:void(0)" onclick="showSection('about')">Sobre mí</a></li>
-						<li><a href="javascript:void(0)" onclick="showSection('cv')">CV</a></li>
-						<li><a href="javascript:void(0)" onclick="showSection('portfolio')">Portafolio</a></li>
-					</ul>
-				</nav>
 
 				<!-- Secciones -->
 				<div id="about" class="section">
@@ -104,3 +121,4 @@
 		</script>
 	</body>
 </html>
+
