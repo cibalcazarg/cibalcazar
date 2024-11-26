@@ -1,0 +1,894 @@
+FID;OBJECTID;Cientifico;Year;Fuente;Nombre;DPA_DESCAN;POINT_X;POINT_Y
+0;1;Aerva  sanguinolenta (L.)  Blume;2016;Investigación UTPL;Escancel;CATAMAYO;-79,280015799400005;-3,994281510130000
+1;2;Aerva  sanguinolenta (L.)  Blume;2016;Investigación UTPL;Escancel;LOJA;-79,255275368100001;-3,880725687390000
+2;3;Alcea rosea L.;1994;GBIF;Malva  goma, malva  rosa, malvón;LOJA;-79,193900000100001;-3,985599999640000
+3;4;Alcea rosea L.;2004;GBIF;Malva  goma, malva  rosa, malvón;LOJA;-79,342199999599998;-3,831900000180000
+4;5;Alcea rosea L.;2006;GBIF;Malva  goma, malva  rosa, malvón;PALTAS;-79,702430000299998;-3,959505999600000
+5;6;Alcea rosea L.;2016;Investigación UTPL;Malva  goma, malva  rosa, malvón;CATAMAYO;-79,271000790200006;-3,994986016090000
+6;7;Alcea rosea L.;2016;Investigación UTPL;Malva  goma, malva  rosa, malvón;LOJA;-79,255275368100001;-4,027919751050000
+7;8;Alcea rosea L.;2024;Proyecto;Malva  goma, malva  rosa, malvón;LOJA;-79,251095449999994;-3,840305499750000
+8;9;Alchemilla aphanoides Mutis ex L. f.;2024;Proyecto;Saucillo;LOJA;-79,262133800300006;-3,678712099880000
+9;10;Aloysia triphylla Royle;2016;Investigación UTPL;Cedrón;CATAMAYO;-79,281013012200006;-3,996171224070000
+10;11;Aloysia triphylla Royle;2016;Investigación UTPL;Cedrón;LOJA;-79,255275368100001;-3,993459024360000
+11;12;Aloysia triphylla Royle;2016;Investigación UTPL;Cedrón;SARAGURO;-79,317560945300002;-3,596131968120000
+12;13;Aloysia triphylla Royle;2020;INaturalist;Cedrón;LOJA;-79,248215541600004;-3,990239433000000
+13;14;Aloysia triphylla Royle;2023;INaturalist;Cedrón;LOJA;-79,192552500000005;-4,043751083150000
+14;15;Aloysia triphylla Royle;2024;INaturalist;Cedrón;CATAMAYO;-79,356912400200002;-3,986538800130000
+15;16;Aloysia triphylla Royle;2024;INaturalist;Cedrón;OLMEDO;-79,569648999699993;-3,973821999690000
+16;17;Aloysia triphylla Royle;2024;Proyecto;Cedrón;LOJA;-79,284337500000007;-3,867810500100000
+17;18;Alternanthera porrigens (Jacq.) Kuntze;1961;Tropicos;Moradilla;LOJA;-79,249999998899995;-3,779999999900000
+18;19;Alternanthera porrigens (Jacq.) Kuntze;1965;Tropicos;Moradilla;LOJA;-79,209999999700003;-3,950000000100000
+19;20;Alternanthera porrigens (Jacq.) Kuntze;1979;Tropicos;Moradilla;SARAGURO;-79,249999998899995;-3,670000000300000
+20;21;Alternanthera porrigens (Jacq.) Kuntze;1980;Tropicos;Moradilla;CATAMAYO;-79,569999999700002;-3,820000000900000
+21;22;Alternanthera porrigens (Jacq.) Kuntze;1980;Tropicos;Moradilla;LOJA;-79,280000000100003;-4,180000000000000
+22;23;Alternanthera porrigens (Jacq.) Kuntze;1988;Tropicos;Moradilla;CATAMAYO;-79,359999999899998;-3,989999999750000
+23;24;Alternanthera porrigens (Jacq.) Kuntze;1988;Tropicos;Moradilla;LOJA;-79,199999999900001;-4,190000000250000
+24;25;Alternanthera porrigens (Jacq.) Kuntze;1989;Tropicos;Moradilla;SARAGURO;-79,230000000199993;-3,629999999300000
+25;26;Alternanthera porrigens (Jacq.) Kuntze;1990;Tropicos;Moradilla;SARAGURO;-79,199999999900001;-3,450000001100000
+26;27;Alternanthera porrigens (Jacq.) Kuntze;1994;Tropicos;Moradilla;PALTAS;-79,919999999900000;-4,070000000400000
+27;28;Alternanthera porrigens (Jacq.) Kuntze;2016;Investigación UTPL;Moradilla;LOJA;-79,278887827899993;-3,879304302150000
+28;29;Alternanthera porrigens (Jacq.) Kuntze;2024;Proyecto;Moradilla;CATAMAYO;-79,230990000000006;-4,052610999800000
+29;30;Alternanthera porrigens (Jacq.) Kuntze;2024;Proyecto;Moradilla;LOJA;-79,361912028199995;-3,786328388840000
+30;31;Amaranthus caudatus L.;2001;INaturalist;Amaranto, ataco, ataku morado, sangorache;LOJA;-79,198939000400003;-4,037138000320000
+31;32;Amaranthus caudatus L.;2016;Investigación UTPL;Amaranto, ataco, ataku morado, sangorache;LOJA;-79,305307228199993;-3,918018774000000
+32;33;Amaranthus caudatus L.;2023;INaturalist;Amaranto, ataco, ataku morado, sangorache;LOJA;-79,182621667099994;-4,060041667090000
+33;34;Amaranthus caudatus L.;2024;INaturalist;Amaranto, ataco, ataku morado, sangorache;PUYANGO;-80,008046667000002;-3,952391667040000
+34;35;Amaranthus hybridus L.;2016;Investigación UTPL;Ataco, Sangorache;LOJA;-79,254983413999994;-4,053203963290000
+35;36;Amaranthus hybridus L.;2016;Investigación UTPL;Ataco, Sangorache;SARAGURO;-79,317560945300002;-3,596131968120000
+36;37;Amaranthus hybridus L.;2024;Proyecto;Ataco, ataku, bledo, sangorache;LOJA;-79,333231025800004;-3,853707981990000
+37;38;Begonia × tuberhybrida Voss;2017;GBIF;Begonia;CATAMAYO;-79,298275000199993;-4,127265999930000
+38;39;Borago officinalis L.;1970;GBIF;Borraja;LOJA;-79,199999999900001;-4,000000000000000
+39;40;Borago officinalis L.;1977;GBIF;Borraja;LOJA;-79,202211000199995;-3,995206000160000
+40;41;Borago officinalis L.;1989;GBIF;Borraja;LOJA;-79,199999999900001;-4,000000000000000
+41;42;Borago officinalis L.;1994;GBIF;Borraja;LOJA;-79,193900000100001;-3,985599999640000
+42;43;Borago officinalis L.;2004;GBIF;Borraja;LOJA;-79,342199999599998;-3,831900000180000
+43;44;Borago officinalis L.;2005;GBIF;Borraja;GONZANAMA;-79,391808000300003;-4,210815000110000
+44;45;Borago officinalis L.;2007;GBIF;Borraja;LOJA;-79,265799999999999;-3,703933000310000
+45;46;Borago officinalis L.;2008;GBIF;Borraja;CATAMAYO;-79,362440000399999;-3,982685000110000
+46;47;Borago officinalis L.;2008;GBIF;Borraja;CELICA;-79,955875999599996;-4,103168000200000
+47;48;Borago officinalis L.;2009;GBIF;Borraja;LOJA;-79,204200000200004;-3,998486000330000
+48;49;Borago officinalis L.;2017;GBIF;Borraja;CATAMAYO;-79,307561000299998;-4,072941000230000
+49;50;Borago officinalis L.;2020;GBIF;Borraja;LOJA;-79,211894500300005;-4,016422999670000
+50;51;Borago officinalis L.;2020;INaturalist;Borraja;LOJA;-79,207345472599997;-4,016422949760000
+51;52;Borago officinalis L.;2021;INaturalist;Borraja;LOJA;-79,216658333699996;-3,971570000160000
+52;53;Borago officinalis L.;2023;GBIF;Borraja;LOJA;-79,177427000400002;-4,380369000430000
+53;54;Borago officinalis L.;2023;INaturalist;Borraja;LOJA;-79,193759746799998;-4,171523066390000
+54;55;Borago officinalis L.;2024;GBIF;Borraja;LOJA;-79,219551000400003;-4,279598000150000
+55;56;Borago officinalis L.;2024;INaturalist;Borraja;GONZANAMA;-79,369083099899996;-4,211349999600000
+56;57;Borago officinalis L.;2024;INaturalist;Borraja;LOJA;-79,219551086699994;-4,279598235770000
+57;58;Borago officinalis L.;2024;Proyecto;Borraja;LOJA;-79,291932122299997;-3,892853265070000
+58;59;Callisia repens (Jacq.) L.;1988;GBIF;Calcha,  calsi;SARAGURO;-79,216330000200003;-3,616330000230000
+59;60;Callisia repens (Jacq.) L.;1989;GBIF;Calcha,  calsi;SARAGURO;-79,233165000000000;-3,566350000350000
+60;61;Callisia repens (Jacq.) L.;2007;GBIF;Calcha,  calsi;LOJA;-79,265799999999999;-3,703933000310000
+61;62;Callisia repens (Jacq.) L.;2007;GBIF;Calcha,  calsi;PALTAS;-79,650420000400004;-4,053818999750000
+62;63;Callisia repens (Jacq.) L.;2008;GBIF;Calcha,  calsi;PALTAS;-79,650420000400004;-4,053818999750000
+63;64;Callisia repens (Jacq.) L.;2014;GBIF;Calcha,  calsi;LOJA;-79,216698000099996;-4,258460000230000
+64;65;Centaurium erythraea Rafn.;1977;GBIF;Canchalagua;LOJA;-79,249999999799996;-3,993049999660000
+65;66;Centaurium erythraea Rafn.;1977;Tropicos;Canchalagua;LOJA;-79,249999998899995;-3,990000000200000
+66;67;Centaurium erythraea Rafn.;1979;GBIF;Canchalagua;SARAGURO;-79,233333000100004;-3,633333000120000
+67;68;Centaurium erythraea Rafn.;1981;GBIF;Canchalagua;LOJA;-79,249999999799996;-3,916329999630000
+68;69;Centaurium erythraea Rafn.;1981;Tropicos;Canchalagua;LOJA;-79,249999998899995;-3,919999999800000
+69;70;Centaurium erythraea Rafn.;1983;GBIF;Canchalagua;LOJA;-79,349999999600001;-3,833299999990000
+70;71;Centaurium erythraea Rafn.;1985;GBIF;Canchalagua;PUYANGO;-79,984952999599997;-3,961318999570000
+71;72;Centaurium erythraea Rafn.;1988;GBIF;Canchalagua;CATAMAYO;-79,486700000200003;-3,961100000260000
+72;73;Centaurium erythraea Rafn.;1988;GBIF;Canchalagua;LOJA;-79,233300000400007;-4,000000000000000
+73;74;Centaurium erythraea Rafn.;1988;GBIF;Canchalagua;SARAGURO;-79,233165000000000;-3,633165000010000
+74;75;Centaurium erythraea Rafn.;1988;Tropicos;Canchalagua;SARAGURO;-79,230000000199993;-3,629999999300000
+75;76;Centaurium erythraea Rafn.;1989;GBIF;Canchalagua;LOJA;-79,199999999900001;-4,000000000000000
+76;77;Centaurium erythraea Rafn.;1991;GBIF;Canchalagua;LOJA;-79,316659999999999;-3,966660000360000
+77;78;Centaurium erythraea Rafn.;1991;Tropicos;Canchalagua;LOJA;-79,319999999299995;-3,969999999700000
+78;79;Centaurium erythraea Rafn.;1994;GBIF;Canchalagua;CATAMAYO;-79,274999999800002;-4,000814999810000
+79;80;Centaurium erythraea Rafn.;1994;GBIF;Canchalagua;LOJA;-79,225549999600005;-3,959424999910000
+80;81;Centaurium erythraea Rafn.;1994;Tropicos;Canchalagua;CATAMAYO;-79,280000000100003;-3,999999999100000
+81;82;Centaurium erythraea Rafn.;1994;Tropicos;Canchalagua;LOJA;-79,270000000300001;-3,940000000300000
+82;83;Centaurium erythraea Rafn.;1995;GBIF;Canchalagua;LOJA;-79,233300000400007;-4,000000000000000
+83;84;Centaurium erythraea Rafn.;2000;GBIF;Canchalagua;PUYANGO;-79,984952999599997;-3,961318999570000
+84;85;Centaurium erythraea Rafn.;2005;GBIF;Canchalagua;LOJA;-79,241483000000002;-3,854419499960000
+85;86;Centaurium erythraea Rafn.;2006;GBIF;Canchalagua;LOJA;-79,305440999699996;-3,774971000010000
+86;87;Centaurium erythraea Rafn.;2006;GBIF;Canchalagua;SARAGURO;-79,187631999700002;-3,642612999990000
+87;88;Centaurium erythraea Rafn.;2007;GBIF;Canchalagua;LOJA;-79,269200000300003;-3,711699999660000
+88;89;Centaurium erythraea Rafn.;2008;GBIF;Canchalagua;CATAMAYO;-79,362440000399999;-3,982685000110000
+89;90;Centaurium erythraea Rafn.;2008;GBIF;Canchalagua;LOJA;-79,198406000099993;-3,990139000310000
+90;91;Centaurium erythraea Rafn.;2016;GBIF;Canchalagua;LOJA;-79,215529000199993;-3,924884000200000
+91;92;Centaurium erythraea Rafn.;2016;INaturalist;Canchalagua;LOJA;-79,215529337400000;-3,924884177360000
+92;93;Centaurium erythraea Rafn.;2019;GBIF;Canchalagua;LOJA;-79,258080000099994;-3,971565999970000
+93;94;Centaurium erythraea Rafn.;2019;GBIF;Canchalagua;SARAGURO;-79,201897000100004;-3,600943000220000
+94;95;Centaurium erythraea Rafn.;2019;INaturalist;Canchalagua;LOJA;-79,258079528799996;-3,971566438840000
+95;96;Centaurium erythraea Rafn.;2019;INaturalist;Canchalagua;SARAGURO;-79,201896633700002;-3,600942824850000
+96;97;Centaurium erythraea Rafn.;2020;GBIF;Canchalagua;LOJA;-79,189832999600000;-4,010228000420000
+97;98;Centaurium erythraea Rafn.;2020;INaturalist;Canchalagua;LOJA;-79,266505831499998;-3,941237152670000
+98;99;Centaurium erythraea Rafn.;2021;GBIF;Canchalagua;SARAGURO;-79,252172000100003;-3,660403000200000
+99;100;Centaurium erythraea Rafn.;2021;INaturalist;Canchalagua;SARAGURO;-79,252172494800007;-3,660402744790000
+100;101;Centaurium erythraea Rafn.;2022;GBIF;Canchalagua;SARAGURO;-79,270364000000001;-3,659659000060000
+101;102;Centaurium erythraea Rafn.;2022;INaturalist;Canchalagua;LOJA;-79,225841666400001;-4,040247221930000
+102;103;Centaurium erythraea Rafn.;2022;INaturalist;Canchalagua;SARAGURO;-79,270025982199996;-3,658959553240000
+103;104;Centaurium erythraea Rafn.;2022;INaturalist;Canchalagua;ZAMORA;-79,144766499699998;-3,991798500400000
+104;105;Centaurium erythraea Rafn.;2023;GBIF;Canchalagua;PUYANGO;-79,972083999700004;-3,930877999620000
+105;106;Centaurium erythraea Rafn.;2023;GBIF;Canchalagua;SARAGURO;-79,375563000300005;-3,528212999830000
+106;107;Centaurium erythraea Rafn.;2023;INaturalist;Canchalagua;LOJA;-79,247007794799998;-3,840473972000000
+107;108;Centaurium erythraea Rafn.;2023;INaturalist;Canchalagua;PUYANGO;-79,972083923200003;-3,930877781080000
+108;109;Centaurium erythraea Rafn.;2023;INaturalist;Canchalagua;SARAGURO;-79,375594166300004;-3,528263333540000
+109;110;Centaurium erythraea Rafn.;2024;INaturalist;Canchalagua;LOJA;-79,202683791799998;-4,090225853040000
+110;111;Centaurium erythraea Rafn.;2024;INaturalist;Canchalagua;SARAGURO;-79,268577807900002;-3,660539108990000
+111;112;Citrus x junos Siebold ex Tanaka;2017;GBIF;Naranja agria, naranjo;CATAMAYO;-79,298275000199993;-4,127265999930000
+112;113;Cymbopogon citratus (DC.) Stapf;1981;GBIF;Hierba luisa, paja luisa;LOJA;-79,199999999900001;-4,000000000000000
+113;114;Cymbopogon citratus (DC.) Stapf;1993;GBIF;Hierba luisa, paja luisa;LOJA;-79,198674999999994;-4,037084999670000
+114;115;Cymbopogon citratus (DC.) Stapf;2004;GBIF;Hierba luisa, paja luisa;LOJA;-79,252483499700006;-4,068750000310000
+115;116;Cymbopogon citratus (DC.) Stapf;2008;GBIF;Hierba luisa, paja luisa;CATAMAYO;-79,362440000399999;-3,982685000110000
+116;117;Cymbopogon citratus (DC.) Stapf;2008;GBIF;Hierba luisa, paja luisa;CELICA;-79,955875999599996;-4,103168000200000
+117;118;Cymbopogon citratus (DC.) Stapf;2009;GBIF;Hierba luisa, paja luisa;LOJA;-79,204200000200004;-3,998486000330000
+118;119;Cymbopogon citratus (DC.) Stapf;2016;Investigación UTPL;Hierba luisa, paja luisa;LOJA;-79,277285440100002;-4,002086398820000
+119;120;Cymbopogon citratus (DC.) Stapf;2024;INaturalist;Hierba luisa, paja luisa;PUYANGO;-80,008338917000003;-3,951946944200000
+120;121;Cymbopogon citratus (DC.) Stapf;2024;Proyecto;Hierba luisa, paja luisa;LOJA;-79,271941499899995;-3,911712999860000
+121;122;Cynodon dactylon (L.) Pers.;1946;GBIF;Grama dulce;LOJA;-79,199057999600001;-4,004903000370000
+122;123;Cynodon dactylon (L.) Pers.;1985;GBIF;Grama dulce;LOJA;-79,206700000400005;-4,033599999940000
+123;124;Cynodon dactylon (L.) Pers.;1985;GBIF;Grama dulce;PALTAS;-79,687099999799997;-4,084899999980000
+124;125;Cynodon dactylon (L.) Pers.;1987;GBIF;Grama dulce;PALTAS;-79,781221999699994;-4,044292000180000
+125;126;Cynodon dactylon (L.) Pers.;1988;GBIF;Grama dulce;CHAGUARPAMBA;-79,583000000200002;-3,800000000400000
+126;127;Cynodon dactylon (L.) Pers.;1988;Tropicos;Grama dulce;CHAGUARPAMBA;-79,580000000400005;-3,800000000400000
+127;128;Cynodon dactylon (L.) Pers.;1994;GBIF;Grama dulce;LOJA;-79,214710999800005;-3,970578000270000
+128;129;Cynodon dactylon (L.) Pers.;1999;GBIF;Grama dulce;CATAMAYO;-79,516699999599993;-3,983299999700000
+129;130;Cynodon dactylon (L.) Pers.;1999;GBIF;Grama dulce;PALTAS;-79,783164999799993;-4,049999999900000
+130;131;Cynodon dactylon (L.) Pers.;1999;Tropicos;Grama dulce;PALTAS;-79,780000000000001;-4,049999999900000
+131;132;Cynodon dactylon (L.) Pers.;2004;GBIF;Grama dulce;LOJA;-79,288299999700001;-3,887500000220000
+132;133;Cynodon dactylon (L.) Pers.;2007;GBIF;Grama dulce;ESPINDOLA;-79,370100000199997;-4,529400000410000
+133;134;Cynodon dactylon (L.) Pers.;2008;GBIF;Grama dulce;CATAMAYO;-79,362440000399999;-3,982685000110000
+134;135;Cynodon dactylon (L.) Pers.;2008;GBIF;Grama dulce;CELICA;-79,955875999599996;-4,103168000200000
+135;136;Cynodon dactylon (L.) Pers.;2012;GBIF;Grama dulce;LOJA;-79,198674999999994;-4,037084999670000
+136;137;Cynodon dactylon (L.) Pers.;2015;GBIF;Grama dulce;MACARA;-79,772105000099998;-4,429034999970000
+137;138;Cynodon dactylon (L.) Pers.;2016;Investigación UTPL;Grama dulce;LOJA;-79,212639723899997;-4,266496083030000
+138;139;Dianthus caryophyllus L.;1996;GBIF;Clavel;LOJA;-79,203332999799997;-4,000000000000000
+139;140;Dianthus caryophyllus L.;2002;GBIF;Clavel;LOJA;-79,198674999999994;-4,037084999670000
+140;141;Dianthus caryophyllus L.;2004;GBIF;Clavel;LOJA;-79,197156000000007;-3,987456999840000
+141;142;Dianthus caryophyllus L.;2005;GBIF;Clavel;LOJA;-79,192022999900004;-3,987743999590000
+142;143;Dianthus caryophyllus L.;2009;GBIF;Clavel;LOJA;-79,204200000200004;-3,998486000330000
+143;144;Dianthus caryophyllus L.;2016;Investigación UTPL;Clavel;LOJA;-79,280138336999997;-4,053203963290000
+144;145;Dianthus caryophyllus L.;2024;Proyecto;Clavel;LOJA;-79,284791999899994;-3,890476499890000
+145;146;Duchesnea indica (Andrews) Teschem.;1991;GBIF;Fresa salvaje;LOJA;-79,249999998899995;-4,250000000400000
+146;147;Duchesnea indica (Andrews) Teschem.;1991;Tropicos;Fresa salvaje;LOJA;-79,249999998899995;-4,250000000400000
+147;148;Duchesnea indica (Andrews) Teschem.;1994;GBIF;Fresa salvaje;LOJA;-79,227500000000006;-4,090000000000000
+148;149;Duchesnea indica (Andrews) Teschem.;1994;Tropicos;Fresa salvaje;CATAMAYO;-79,230000000199993;-4,090000000000000
+149;150;Epidendrum jamiesonis Rchb. f.;1973;GBIF;Flor de Cristo, maywa;SARAGURO;-79,166660000299999;-3,566660000260000
+150;151;Epidendrum jamiesonis Rchb. f.;1977;GBIF;Flor de Cristo, maywa;LOJA;-79,150000000000006;-3,983330000180000
+151;152;Epidendrum jamiesonis Rchb. f.;1980;GBIF;Flor de Cristo, maywa;LOJA;-79,166660000299999;-4,166659999960000
+152;153;Epidendrum jamiesonis Rchb. f.;1988;GBIF;Flor de Cristo, maywa;LOJA;-79,133314999899994;-4,383315000040000
+153;154;Epidendrum jamiesonis Rchb. f.;1989;GBIF;Flor de Cristo, maywa;LOJA;-79,141660000300007;-4,416665000140000
+154;155;Epidendrum jamiesonis Rchb. f.;1990;GBIF;Flor de Cristo, maywa;LOJA;-79,283331499900001;-3,983331500250000
+155;156;Epidendrum jamiesonis Rchb. f.;2024;Proyecto;Flor de Cristo, maywa;LOJA;-79,223975000199999;-3,982531000210000
+156;157;Equisetum bogotense Kunth;1981;GBIF;Cola de caballo, caballo chupa;LOJA;-79,199999999900001;-4,000000000000000
+157;158;Equisetum bogotense Kunth;1981;Tropicos;Cola de caballo, caballo chupa;LOJA;-79,199999999900001;-4,000000000000000
+158;159;Equisetum bogotense Kunth;1982;GBIF;Cola de caballo, caballo chupa;PALTAS;-79,654550000200004;-4,088740000350000
+159;160;Equisetum bogotense Kunth;1984;GBIF;Cola de caballo, caballo chupa;CATAMAYO;-79,333164999800005;-4,000000000000000
+160;161;Equisetum bogotense Kunth;1984;GBIF;Cola de caballo, caballo chupa;LOJA;-79,166000000400004;-4,083000000050000
+161;162;Equisetum bogotense Kunth;1984;Tropicos;Cola de caballo, caballo chupa;CATAMAYO;-79,329999999999998;-3,999999999100000
+162;163;Equisetum bogotense Kunth;1988;GBIF;Cola de caballo, caballo chupa;LOJA;-79,158330000099994;-3,999664999840000
+163;164;Equisetum bogotense Kunth;1988;Tropicos;Cola de caballo, caballo chupa;LOJA;-79,159999999799993;-4,000000000000000
+164;165;Equisetum bogotense Kunth;1994;GBIF;Cola de caballo, caballo chupa;ESPINDOLA;-79,435550000299997;-4,721940000430000
+165;166;Equisetum bogotense Kunth;1994;GBIF;Cola de caballo, caballo chupa;LOJA;-79,188210000300003;-4,271525000180000
+166;167;Equisetum bogotense Kunth;1994;Tropicos;Cola de caballo, caballo chupa;ESPINDOLA;-79,440000000500007;-4,720000000000000
+167;168;Equisetum bogotense Kunth;1994;Tropicos;Cola de caballo, caballo chupa;LOJA;-79,180000001200000;-4,270000000000000
+168;169;Equisetum bogotense Kunth;1996;GBIF;Cola de caballo, caballo chupa;ESPINDOLA;-79,440277999800003;-4,711389000400000
+169;170;Equisetum bogotense Kunth;2000;GBIF;Cola de caballo, caballo chupa;LOJA;-79,233165000000000;-3,850000000300000
+170;171;Equisetum bogotense Kunth;2000;Tropicos;Cola de caballo, caballo chupa;LOJA;-79,230000000199993;-3,850000000300000
+171;172;Equisetum bogotense Kunth;2001;GBIF;Cola de caballo, caballo chupa;ESPINDOLA;-79,429360000000003;-4,707250000190000
+172;173;Equisetum bogotense Kunth;2001;Tropicos;Cola de caballo, caballo chupa;ESPINDOLA;-79,429999999800003;-4,710000000200000
+173;174;Equisetum bogotense Kunth;2005;GBIF;Cola de caballo, caballo chupa;LOJA;-79,241922500100003;-3,952410499740000
+174;175;Equisetum bogotense Kunth;2007;GBIF;Cola de caballo, caballo chupa;LOJA;-79,269150999800004;-3,707268000320000
+175;176;Equisetum bogotense Kunth;2008;GBIF;Cola de caballo, caballo chupa;LOJA;-79,343957999799997;-3,842832999840000
+176;177;Equisetum bogotense Kunth;2016;Investigación UTPL;Cola de caballo, caballo chupa;LOJA;-79,277029441799996;-3,837047182680000
+177;178;Equisetum bogotense Kunth;2016;Investigación UTPL;Cola de caballo, caballo chupa;SARAGURO;-79,293842688799998;-3,602137055280000
+178;179;Equisetum bogotense Kunth;2021;GBIF;Cola de caballo, caballo chupa;LOJA;-79,195208000099996;-4,037459999880000
+179;180;Equisetum bogotense Kunth;2021;INaturalist;Cola de caballo, caballo chupa;LOJA;-79,195208481300000;-4,037460285860000
+180;181;Equisetum bogotense Kunth;2022;GBIF;Cola de caballo, caballo chupa;LOJA;-79,174828000100007;-4,113907999950000
+181;182;Equisetum bogotense Kunth;2022;INaturalist;Cola de caballo, caballo chupa;LOJA;-79,174828332900006;-4,113908333600000
+182;183;Equisetum bogotense Kunth;2022;INaturalist;Cola de caballo, caballo chupa;ZAMORA;-79,145080555500002;-3,989736111230000
+183;184;Equisetum bogotense Kunth;2023;GBIF;Cola de caballo, caballo chupa;CELICA;-79,958439999999996;-4,103126000060000
+184;185;Equisetum bogotense Kunth;2023;INaturalist;Cola de caballo, caballo chupa;CELICA;-79,958439767100003;-4,103125749150000
+185;186;Equisetum bogotense Kunth;2023;INaturalist;Cola de caballo, caballo chupa;LOJA;-79,167227369000003;-4,109515159350000
+186;187;Equisetum bogotense Kunth;2023;INaturalist;Cola de caballo, caballo chupa;SARAGURO;-79,197668949999994;-3,581749849880000
+187;188;Equisetum bogotense Kunth;2024;INaturalist;Cola de caballo, caballo chupa;MACARA;-79,897421666499994;-4,351700000350000
+188;189;Equisetum bogotense Kunth;2024;Proyecto;Cola de caballo, caballo chupa;CATAMAYO;-79,228730000100001;-4,080643000170000
+189;190;Equisetum giganteum L.;1988;GBIF;Cola  de  caballo,  chupa caballo;SARAGURO;-79,233165000000000;-3,633165000010000
+190;191;Equisetum giganteum L.;1988;Tropicos;Cola  de  caballo,  chupa caballo;SARAGURO;-79,230000000199993;-3,629999999300000
+191;192;Equisetum giganteum L.;2009;GBIF;Cola  de  caballo,  chupa caballo;LOJA;-79,204200000200004;-3,998486000330000
+192;193;Equisetum giganteum L.;2012;GBIF;Cola  de  caballo,  chupa caballo;SARAGURO;-79,390698999600005;-3,376623999700000
+193;194;Equisetum giganteum L.;2016;GBIF;Cola  de  caballo,  chupa caballo;LOJA;-79,211277000099997;-4,007890999670000
+194;195;Equisetum giganteum L.;2016;Investigación UTPL;Cola  de  caballo,  chupa caballo;CATAMAYO;-79,280015799400005;-3,995088507780000
+195;196;Equisetum giganteum L.;2016;Investigación UTPL;Cola  de  caballo,  chupa caballo;LOJA;-79,255275368100001;-3,916911539040000
+196;197;Equisetum giganteum L.;2017;GBIF;Cola  de  caballo,  chupa caballo;LOJA;-79,229970999800003;-3,936379999740000
+197;198;Equisetum giganteum L.;2023;GBIF;Cola  de  caballo,  chupa caballo;LOJA;-79,219984999700003;-4,253292000230000
+198;199;Equisetum giganteum L.;2024;Proyecto;Cola  de  caballo,  chupa caballo;CATAMAYO;-79,305596700199999;-4,065963299870000
+199;200;Foeniculum vulgare Mill.;1946;GBIF;Eneldo, hinojo;LOJA;-79,199999999900001;-4,000000000000000
+200;201;Foeniculum vulgare Mill.;1967;GBIF;Eneldo, hinojo;LOJA;-79,166700000299997;-4,083300000390000
+201;202;Foeniculum vulgare Mill.;1994;GBIF;Eneldo, hinojo;LOJA;-79,199999999900001;-4,000000000000000
+202;203;Foeniculum vulgare Mill.;1996;GBIF;Eneldo, hinojo;CATAMAYO;-79,236944000299999;-4,098333000270000
+203;204;Foeniculum vulgare Mill.;2002;GBIF;Eneldo, hinojo;LOJA;-79,233333000100004;-3,816667000080000
+204;205;Foeniculum vulgare Mill.;2004;GBIF;Eneldo, hinojo;LOJA;-79,197538000099996;-3,987607000010000
+205;206;Foeniculum vulgare Mill.;2004;Tropicos;Eneldo, hinojo;LOJA;-79,180000001200000;-4,379999999600000
+206;207;Foeniculum vulgare Mill.;2009;GBIF;Eneldo, hinojo;LOJA;-79,204200000200004;-3,998486000330000
+207;208;Foeniculum vulgare Mill.;2016;Investigación UTPL;Eneldo, hinojo;CATAMAYO;-79,282018050900007;-3,997012132000000
+208;209;Foeniculum vulgare Mill.;2016;Investigación UTPL;Eneldo, hinojo;LOJA;-79,254994130699998;-3,881812415560000
+209;210;Foeniculum vulgare Mill.;2024;Proyecto;Eneldo, hinojo;LOJA;-79,284240499999996;-3,905392000190000
+210;211;Fuchsia harlingii Munz;1973;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,249999999799996;-3,749999999600000
+211;212;Fuchsia harlingii Munz;1973;Tropicos;Flor de reina, mejorana de huerta;LOJA;-79,249999999799996;-3,749999999600000
+212;213;Fuchsia harlingii Munz;1978;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,249999998899995;-3,699999999700000
+213;214;Fuchsia harlingii Munz;1978;GBIF;Flor de reina, mejorana de huerta;SARAGURO;-79,166600000200006;-3,500000000100000
+214;215;Fuchsia harlingii Munz;1978;Tropicos;Flor de reina, mejorana de huerta;LOJA;-79,249999998899995;-3,699999999700000
+215;216;Fuchsia harlingii Munz;1978;Tropicos;Flor de reina, mejorana de huerta;SARAGURO;-79,169999999599995;-3,499999999200000
+216;217;Fuchsia harlingii Munz;1987;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,116660000400003;-4,383330000280000
+217;218;Fuchsia harlingii Munz;1987;Tropicos;Flor de reina, mejorana de huerta;LOJA;-79,119999998799997;-4,379999999600000
+218;219;Fuchsia harlingii Munz;1988;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,166680000300005;-4,233149999920000
+219;220;Fuchsia harlingii Munz;1988;GBIF;Flor de reina, mejorana de huerta;SARAGURO;-79,291664999800005;-3,658164999960000
+220;221;Fuchsia harlingii Munz;1988;Tropicos;Flor de reina, mejorana de huerta;LOJA;-79,220000000400006;-4,080000000200000
+221;222;Fuchsia harlingii Munz;1988;Tropicos;Flor de reina, mejorana de huerta;SARAGURO;-79,289999999499997;-3,654999999700000
+222;223;Fuchsia harlingii Munz;1989;GBIF;Flor de reina, mejorana de huerta;QUILANGA;-79,333300000199998;-4,383299999800000
+223;224;Fuchsia harlingii Munz;1989;GBIF;Flor de reina, mejorana de huerta;SARAGURO;-79,333164999800005;-3,683164999910000
+224;225;Fuchsia harlingii Munz;1989;Tropicos;Flor de reina, mejorana de huerta;SARAGURO;-79,329999999999998;-3,680000000100000
+225;226;Fuchsia harlingii Munz;1994;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,336939999899997;-3,826939999880000
+226;227;Fuchsia harlingii Munz;1994;Tropicos;Flor de reina, mejorana de huerta;LOJA;-79,339999999800000;-3,829999998900000
+227;228;Fuchsia harlingii Munz;2002;GBIF;Flor de reina, mejorana de huerta;LOJA;-79,147200000400005;-4,000000000000000
+228;229;Fuchsia hybrida Hort. T. Ex Siebert & Voss;2016;Investigación UTPL;Pena pena grande, pena pena roja;CATAMAYO;-79,267596125099999;-3,991171820420000
+229;230;Fuchsia hybrida Hort. T. Ex Siebert & Voss;2016;Investigación UTPL;Pena pena grande, pena pena roja;LOJA;-79,276460810800003;-4,050749617200000
+230;231;Fuchsia loxensis Kunth;1945;GBIF;Pena pena rosada;LOJA;-79,249999999799996;-4,000000000000000
+231;232;Fuchsia loxensis Kunth;1946;GBIF;Pena pena rosada;LOJA;-79,266700000100002;-3,896700000000000
+232;233;Fuchsia loxensis Kunth;1947;GBIF;Pena pena rosada;LOJA;-79,247499999599995;-3,687200000280000
+233;234;Fuchsia loxensis Kunth;1967;GBIF;Pena pena rosada;LOJA;-79,216660000199994;-4,000000000000000
+234;235;Fuchsia loxensis Kunth;1973;GBIF;Pena pena rosada;LOJA;-79,249999999799996;-3,768000000050000
+235;236;Fuchsia loxensis Kunth;1977;GBIF;Pena pena rosada;LOJA;-79,198674999999994;-4,037084999670000
+236;237;Fuchsia loxensis Kunth;1978;GBIF;Pena pena rosada;LOJA;-79,299999999700006;-3,983330000180000
+237;238;Fuchsia loxensis Kunth;1978;Tropicos;Pena pena rosada;LOJA;-79,299999999700006;-3,980000000400000
+238;239;Fuchsia loxensis Kunth;1979;GBIF;Pena pena rosada;SARAGURO;-79,249999999799996;-3,666330000130000
+239;240;Fuchsia loxensis Kunth;1979;Tropicos;Pena pena rosada;SARAGURO;-79,249999998899995;-3,670000000300000
+240;241;Fuchsia loxensis Kunth;1988;GBIF;Pena pena rosada;CATAMAYO;-79,333300000199998;-4,000000000000000
+241;242;Fuchsia loxensis Kunth;1989;GBIF;Pena pena rosada;LOJA;-79,116700000400002;-4,383299999800000
+242;243;Fuchsia loxensis Kunth;1994;GBIF;Pena pena rosada;ESPINDOLA;-79,435599999900006;-4,721900000380000
+243;244;Fuchsia loxensis Kunth;1994;GBIF;Pena pena rosada;LOJA;-79,264440000199997;-3,947769999790000
+244;245;Fuchsia loxensis Kunth;1994;Tropicos;Pena pena rosada;LOJA;-79,259999999599998;-3,950000000100000
+245;246;Fuchsia loxensis Kunth;1995;GBIF;Pena pena rosada;LOJA;-79,116660000400003;-4,383330000280000
+246;247;Fuchsia loxensis Kunth;1995;Tropicos;Pena pena rosada;LOJA;-79,119999998799997;-4,379999999600000
+247;248;Fuchsia loxensis Kunth;1998;GBIF;Pena pena rosada;CATAMAYO;-79,299999999700006;-4,000000000000000
+248;249;Fuchsia loxensis Kunth;2002;GBIF;Pena pena rosada;LOJA;-79,189421999999993;-4,106683499990000
+249;250;Fuchsia magellanica Lam.;1993;GBIF;Pena pena morada;LOJA;-79,198674999999994;-4,037084999670000
+250;251;Fuchsia magellanica Lam.;1996;GBIF;Pena pena morada;LOJA;-79,168750000000003;-3,857800000270000
+251;252;Fuchsia magellanica Lam.;1996;GBIF;Pena pena morada;SARAGURO;-79,304699999700006;-3,681899999590000
+252;253;Fuchsia magellanica Lam.;2016;Investigación UTPL;Pena pena morada;CATAMAYO;-79,280015799400005;-3,994281510130000
+253;254;Fuchsia magellanica Lam.;2024;Proyecto;Pena pena morada;LOJA;-79,285410700100002;-3,847835299760000
+254;255;Gamochaeta americana (Mill.) Wedd*;2024;Proyecto;Lechugilla, lancetilla;CATAMAYO;-79,230990000000006;-4,052610999800000
+255;256;Hedychium coronarium J. Koening;1970;GBIF;Caña agria;LOJA;-79,198674999999994;-4,037084999670000
+256;257;Hedychium coronarium J. Koening;1987;GBIF;Caña agria;CHAGUARPAMBA;-79,618329999899998;-3,768329999980000
+257;258;Hedychium coronarium J. Koening;2016;Investigación UTPL;Caña agria;LOJA;-79,342501678600001;-3,846388247870000
+258;259;Hedychium coronarium J. Koening;2020;GBIF;Caña agria;CHAGUARPAMBA;-79,666100999600005;-3,839192000110000
+259;260;Hedychium coronarium J. Koening;2020;GBIF;Caña agria;LOJA;-79,254204000300007;-4,218469999690000
+260;261;Hedychium coronarium J. Koening;2020;INaturalist;Caña agria;CHAGUARPAMBA;-79,666100777400004;-3,839192465960000
+261;262;Hedychium coronarium J. Koening;2020;INaturalist;Caña agria;LOJA;-79,233136054400006;-4,242523149320000
+262;263;Hedychium coronarium J. Koening;2022;INaturalist;Caña agria;PALTAS;-79,647145677599994;-4,051818592750000
+263;264;Hedychium coronarium J. Koening;2023;GBIF;Caña agria;CELICA;-79,958439999999996;-4,103126000060000
+264;265;Hedychium coronarium J. Koening;2023;GBIF;Caña agria;LOJA;-79,219978000300003;-4,253335999560000
+265;266;Hedychium coronarium J. Koening;2023;INaturalist;Caña agria;CELICA;-79,958439767100003;-4,103125749150000
+266;267;Hedychium coronarium J. Koening;2023;INaturalist;Caña agria;LOJA;-79,222677841099994;-4,257832172270000
+267;268;Hedychium coronarium J. Koening;2024;INaturalist;Caña agria;MACARA;-79,897621666700005;-4,351663333200000
+268;269;Hordeum vulgare L.;1998;GBIF;Cebada;SARAGURO;-79,249999999799996;-3,550000000000000
+269;270;Hordeum vulgare L.;2008;GBIF;Cebada;CELICA;-79,955875999599996;-4,103168000200000
+270;271;Hordeum vulgare L.;2015;GBIF;Cebada;MACARA;-79,772105000099998;-4,429034999970000
+271;272;Indigofera suffruticosa Mill.;1943;GBIF;Tintanil;SARAGURO;-79,159999999799993;-3,699999999700000
+272;273;Indigofera suffruticosa Mill.;1943;Tropicos;Tintanil;SARAGURO;-79,159999999799993;-3,699999999700000
+273;274;Indigofera suffruticosa Mill.;1946;GBIF;Tintanil;GONZANAMA;-79,400000000399999;-4,016700000300000
+274;275;Indigofera suffruticosa Mill.;1946;GBIF;Tintanil;PUYANGO;-79,984952999599997;-3,961318999570000
+275;276;Indigofera suffruticosa Mill.;1975;GBIF;Tintanil;LOJA;-79,216666999599994;-4,250000000400000
+276;277;Indigofera suffruticosa Mill.;1975;Tropicos;Tintanil;LOJA;-79,220000000400006;-4,250000000400000
+277;278;Indigofera suffruticosa Mill.;1982;GBIF;Tintanil;CATAMAYO;-79,487500000200001;-4,025799999970000
+278;279;Indigofera suffruticosa Mill.;1982;GBIF;Tintanil;GONZANAMA;-79,540277999599994;-4,087778000050000
+279;280;Indigofera suffruticosa Mill.;1984;GBIF;Tintanil;LOJA;-79,233329999999995;-4,300000000300000
+280;281;Indigofera suffruticosa Mill.;1984;Tropicos;Tintanil;LOJA;-79,230000000199993;-4,300000000300000
+281;282;Indigofera suffruticosa Mill.;1986;GBIF;Tintanil;LOJA;-79,233300000400007;-4,216699999910000
+282;283;Indigofera suffruticosa Mill.;1987;GBIF;Tintanil;LOJA;-79,199999999900001;-4,333166500030000
+283;284;Indigofera suffruticosa Mill.;1987;GBIF;Tintanil;MACARA;-80,066660000300004;-4,283329999580000
+284;285;Indigofera suffruticosa Mill.;1987;Tropicos;Tintanil;LOJA;-79,199999999900001;-4,329999999700000
+285;286;Indigofera suffruticosa Mill.;1987;Tropicos;Tintanil;MACARA;-80,069999998699998;-4,279999998900000
+286;287;Indigofera suffruticosa Mill.;1990;GBIF;Tintanil;LOJA;-79,199999999900001;-4,283329999580000
+287;288;Indigofera suffruticosa Mill.;1990;Tropicos;Tintanil;LOJA;-79,199999999900001;-4,279999998900000
+288;289;Indigofera suffruticosa Mill.;1995;GBIF;Tintanil;LOJA;-79,199999999900001;-4,233300000090000
+289;290;Indigofera suffruticosa Mill.;1996;GBIF;Tintanil;LOJA;-79,299999999700006;-3,966680000380000
+290;291;Indigofera suffruticosa Mill.;1996;Tropicos;Tintanil;LOJA;-79,299999999700006;-3,969999999700000
+291;292;Indigofera suffruticosa Mill.;2004;GBIF;Tintanil;LOJA;-79,216700000200007;-4,266699999810000
+292;293;Indigofera suffruticosa Mill.;2004;GBIF;Tintanil;PUYANGO;-80,053492000099993;-3,968319000420000
+293;294;Indigofera suffruticosa Mill.;2006;GBIF;Tintanil;PALTAS;-79,764199999799999;-4,012800000320000
+294;295;Indigofera suffruticosa Mill.;2007;GBIF;Tintanil;LOJA;-79,215940000200007;-4,254720999570000
+295;296;Indigofera suffruticosa Mill.;2008;GBIF;Tintanil;CALVAS;-79,559129000200002;-4,282157000350000
+296;297;Indigofera suffruticosa Mill.;2022;GBIF;Tintanil;LOJA;-79,203332999799997;-3,986667000280000
+297;298;Iresine diffusa Humb. & Bonpl. ex Willd.;1961;Tropicos;Chulku, escancel;LOJA;-79,234999999699994;-3,889999999500000
+298;299;Iresine diffusa Humb. & Bonpl. ex Willd.;1965;Tropicos;Chulku, escancel;LOJA;-79,209999999700003;-3,950000000100000
+299;300;Iresine diffusa Humb. & Bonpl. ex Willd.;1988;Tropicos;Chulku, escancel;LOJA;-79,150000000000006;-3,919999999800000
+300;301;Iresine diffusa Humb. & Bonpl. ex Willd.;1994;Tropicos;Chulku, escancel;CELICA;-79,950000000200006;-4,100000000700000
+301;302;Iresine diffusa Humb. & Bonpl. ex Willd.;1994;Tropicos;Chulku, escancel;LOJA;-79,169999999599995;-4,270000000000000
+302;303;Iresine diffusa Humb. & Bonpl. ex Willd.;2000;Tropicos;Chulku, escancel;PUYANGO;-79,979999999599997;-3,999999999100000
+303;304;Iresine diffusa Humb. & Bonpl. ex Willd.;2019;INaturalist;Chulku, escancel;LOJA;-79,198509915000002;-4,037471414970000
+304;305;Iresine diffusa Humb. & Bonpl. ex Willd.;2020;INaturalist;Chulku, escancel;LOJA;-79,213987599899994;-4,133175650140000
+305;306;Iresine diffusa Humb. & Bonpl. ex Willd.;2023;INaturalist;Chulku, escancel;LOJA;-79,304028333399998;-4,061456387900000
+306;307;Iresine diffusa Humb. & Bonpl. ex Willd.;2024;INaturalist;Chulku, escancel;OLMEDO;-79,569648999699993;-3,973821999690000
+307;308;Iresine diffusa Humb. & Bonpl. ex Willd.;2024;Proyecto;Chulku, escancel;LOJA;-79,285788956800005;-3,868019000280000
+308;309;Iresine herbstii Hook.;1988;Tropicos;Escancel, Tigrecillo;SARAGURO;-79,230000000199993;-3,629999999300000
+309;310;Iresine herbstii Hook.;1989;Tropicos;Escancel, Tigrecillo;SARAGURO;-79,270000000300001;-3,580000000300000
+310;311;Iresine herbstii Hook.;2016;Investigación UTPL;Escancel, Tigrecillo;LOJA;-79,278887827899993;-4,002086398820000
+311;312;Iresine herbstii Hook.;2016;Investigación UTPL;Escancel, Tigrecillo;SARAGURO;-79,317560945300002;-3,596131968120000
+312;313;Linum usitatissimum L.;1967;GBIF;Linaza;LOJA;-79,199999999900001;-4,000000000000000
+313;314;Linum usitatissimum L.;1977;GBIF;Linaza;LOJA;-79,249999999799996;-4,300000000300000
+314;315;Linum usitatissimum L.;1988;GBIF;Linaza;SARAGURO;-79,233165000000000;-3,633165000010000
+315;316;Linum usitatissimum L.;1990;GBIF;Linaza;LOJA;-79,356100000300003;-3,841400000310000
+316;317;Linum usitatissimum L.;1994;GBIF;Linaza;LOJA;-79,183333000199994;-3,983333000320000
+317;318;Linum usitatissimum L.;2002;GBIF;Linaza;LOJA;-79,233333000100004;-3,816667000080000
+318;319;Linum usitatissimum L.;2003;GBIF;Linaza;LOJA;-79,202221999800003;-4,034999999750000
+319;320;Linum usitatissimum L.;2004;GBIF;Linaza;LOJA;-79,342199999599998;-3,831900000180000
+320;321;Linum usitatissimum L.;2007;GBIF;Linaza;LOJA;-79,265799999999999;-3,703933000310000
+321;322;Linum usitatissimum L.;2008;GBIF;Linaza;CATAMAYO;-79,362440000399999;-3,982685000110000
+322;323;Linum usitatissimum L.;2008;GBIF;Linaza;CELICA;-79,955875999599996;-4,103168000200000
+323;324;Linum usitatissimum L.;2009;GBIF;Linaza;LOJA;-79,204200000200004;-3,998486000330000
+324;325;Linum usitatissimum L.;2015;GBIF;Linaza;MACARA;-79,772105000099998;-4,429034999970000
+325;326;Linum usitatissimum L.;2016;Investigación UTPL;Linaza;CATAMAYO;-79,280015799400005;-3,994281510130000
+326;327;Linum usitatissimum L.;2016;Investigación UTPL;Linaza;LOJA;-79,278194251399995;-3,881812415560000
+327;328;Linum usitatissimum L.;2017;GBIF;Linaza;CATAMAYO;-79,304618999599995;-4,096860999840000
+328;329;Linum usitatissimum L.;2024;Proyecto;Linaza;LOJA;-79,292641915800004;-3,890612624420000
+329;330;Ludwigia nervosa (Poir.) H. Hara;1982;GBIF;Flor de reina, mejorana de huerta;PALTAS;-79,720800000300002;-3,991700000350000
+330;331;Ludwigia nervosa (Poir.) H. Hara;2006;GBIF;Flor de reina, mejorana de huerta;CATAMAYO;-79,353005999700002;-4,032680999830000
+331;332;Ludwigia nervosa (Poir.) H. Hara;2008;GBIF;Flor de reina, mejorana de huerta;PALTAS;-79,650420000400004;-4,053818999750000
+332;333;Malva arborea (L.) Webb & Berthel.;1976;GBIF;Malva  altea, malva blanca;LOJA;-79,198674999999994;-4,037084999670000
+333;334;Malva arborea (L.) Webb & Berthel.;1990;GBIF;Malva  altea, malva blanca;LOJA;-79,356100000300003;-3,841400000310000
+334;335;Malva arborea (L.) Webb & Berthel.;1994;GBIF;Malva  altea, malva blanca;LOJA;-79,183299999599996;-3,983299999700000
+335;336;Malva arborea (L.) Webb & Berthel.;2004;GBIF;Malva  altea, malva blanca;LOJA;-79,342199999599998;-3,831900000180000
+336;337;Malva arborea (L.) Webb & Berthel.;2007;GBIF;Malva  altea, malva blanca;LOJA;-79,269147999699996;-3,708751000360000
+337;338;Malva arborea (L.) Webb & Berthel.;2024;Proyecto;Malva  altea, malva blanca;LOJA;-79,339994000399997;-3,856852999770000
+338;339;Malva parviflora L.;2008;GBIF;malva arborea, malva blanca,  (flor grande);CATAMAYO;-79,362440000399999;-3,982685000110000
+339;340;Malva parviflora L.;2016;Investigación UTPL;malva arborea, malva blanca,  (flor grande);LOJA;-79,278887827899993;-4,002086398820000
+340;341;Malva parviflora L.;2024;Proyecto;malva arborea, malva blanca,  (flor grande);LOJA;-79,336151450900005;-3,854516304780000
+341;342;Malva parviflora L.;2024;Proyecto;Malva arborea, malva blanca,  (flor grande);LOJA;-79,251671999600006;-3,959716299770000
+342;343;Mathiola incana (L.) R. Br.;2016;Investigación UTPL;Alelia;CATAMAYO;-79,282018050900007;-3,997012132000000
+343;344;Mathiola incana (L.) R. Br.;2016;Investigación UTPL;Alelia;LOJA;-79,253331282500000;-4,053203963290000
+344;345;Matricaria recutita L.;2016;Investigación UTPL;Manzanilla;CATAMAYO;-79,280015799400005;-3,995088507780000
+345;346;Matricaria recutita L.;2016;Investigación UTPL;Manzanilla;LOJA;-79,255275368100001;-3,993459024360000
+346;347;Matricaria recutita L.;2016;Investigación UTPL;Manzanilla;SARAGURO;-79,317560945300002;-3,596131968120000
+347;348;Matricaria recutita L.;2024;Proyecto;Manzanilla;LOJA;-79,287684514099993;-3,869539717880000
+348;349;Matthiola incana (L.) W.T. Aiton;2024;Proyecto;Alhelí;LOJA;-79,232476296900003;-3,952507767720000
+349;350;Melissa officinalis L.;1989;GBIF;Toronjil;LOJA;-79,199999999900001;-4,000000000000000
+350;351;Melissa officinalis L.;1990;GBIF;Toronjil;LOJA;-79,215599999800006;-3,974200000030000
+351;352;Melissa officinalis L.;1994;GBIF;Toronjil;LOJA;-79,183299999599996;-3,983299999700000
+352;353;Melissa officinalis L.;1996;GBIF;Toronjil;CATAMAYO;-79,236900000000006;-4,098299999650000
+353;354;Melissa officinalis L.;2004;GBIF;Toronjil;LOJA;-79,342199999599998;-3,831900000180000
+354;355;Melissa officinalis L.;2005;GBIF;Toronjil;LOJA;-79,198674999999994;-4,037084999670000
+355;356;Melissa officinalis L.;2007;GBIF;Toronjil;LOJA;-79,269150999800004;-3,707268000320000
+356;357;Melissa officinalis L.;2008;GBIF;Toronjil;CATAMAYO;-79,362440000399999;-3,982685000110000
+357;358;Melissa officinalis L.;2008;GBIF;Toronjil;CELICA;-79,955875999599996;-4,103168000200000
+358;359;Melissa officinalis L.;2009;GBIF;Toronjil;LOJA;-79,204200000200004;-3,998486000330000
+359;360;Melissa officinalis L.;2013;GBIF;Toronjil;PALTAS;-79,695849999999993;-3,993533000350000
+360;361;Melissa officinalis L.;2024;Proyecto;Toronjil;LOJA;-79,281426000200000;-3,892920000160000
+361;362;Melissa officinalis L.;2024;Proyecto;Troronjil;LOJA;-79,315086796100005;-3,921670227000000
+362;363;Mentha spicata L.;1990;GBIF;Hierba buena, menta, menta negra;LOJA;-79,356110999899997;-3,841388999800000
+363;364;Mentha spicata L.;1996;GBIF;Hierba buena, menta, menta negra;CATAMAYO;-79,236900000000006;-4,098299999650000
+364;365;Mentha spicata L.;1996;GBIF;Hierba buena, menta, menta negra;LOJA;-79,265599999700001;-3,704400000260000
+365;366;Mentha spicata L.;2006;GBIF;Hierba buena, menta, menta negra;LOJA;-79,252057999800002;-3,906027999840000
+366;367;Mentha spicata L.;2008;GBIF;Hierba buena, menta, menta negra;CATAMAYO;-79,362440000399999;-3,982685000110000
+367;368;Mentha spicata L.;2008;GBIF;Hierba buena, menta, menta negra;CELICA;-79,955875999599996;-4,103168000200000
+368;369;Mentha spicata L.;2009;GBIF;Hierba buena, menta, menta negra;LOJA;-79,204200000200004;-3,998486000330000
+369;370;Mentha spicata L.;2016;Investigación UTPL;Hierba buena, menta, menta negra;LOJA;-79,280138336999997;-3,895860544930000
+370;371;Mentha x piperita L.;1985;GBIF;Hierba buena, menta;LOJA;-79,241650000099995;-4,125000000200000
+371;372;Mentha x piperita L.;2004;GBIF;Hierba buena, menta;LOJA;-79,270077999799994;-3,909828500190000
+372;373;Mentha x piperita L.;2006;GBIF;Hierba buena, menta;LOJA;-79,198674999999994;-4,037084999670000
+373;374;Mentha x piperita L.;2007;GBIF;Hierba buena, menta;LOJA;-79,194080000300005;-4,075686000010000
+374;375;Mentha x piperita L.;2008;GBIF;Hierba buena, menta;CATAMAYO;-79,362440000399999;-3,982685000110000
+375;376;Mentha x piperita L.;2009;GBIF;Hierba buena, menta;LOJA;-79,204200000200004;-3,998486000330000
+376;377;Mentha x piperita L.;2016;Investigación UTPL;Hierba buena, menta;CATAMAYO;-79,280015799400005;-3,995088507780000
+377;378;Mentha x piperita L.;2016;Investigación UTPL;Hierba buena, menta;LOJA;-79,254994130699998;-3,879304302150000
+378;379;Mentha x piperita L.;2024;Proyecto;Hierba buena, menta;LOJA;-79,279159500000006;-3,889321217750000
+379;380;Myrcianthes hallii (O.  Berg) McVaugh;2010;GBIF;Arrayán;CELICA;-79,942499999700004;-4,083611000350000
+380;381;Myrcianthes hallii (O.  Berg) McVaugh;2010;Tropicos;Arrayán;CELICA;-79,939999999500003;-4,080000000200000
+381;382;Myrcianthes hallii (O.  Berg) McVaugh;2024;Proyecto;Arrayán;LOJA;-79,339180999800007;-3,857245999900000
+382;383;Niphidium crassifolium (L.) Lellinger;1973;GBIF;Calawala;LOJA;-79,150000000000006;-4,000000000000000
+383;384;Niphidium crassifolium (L.) Lellinger;1983;GBIF;Calawala;CELICA;-79,965999999700003;-4,099999999800000
+384;385;Niphidium crassifolium (L.) Lellinger;1985;GBIF;Calawala;LOJA;-79,166330000299993;-4,083165000010000
+385;386;Niphidium crassifolium (L.) Lellinger;1985;GBIF;Calawala;PALTAS;-79,654550000200004;-4,088740000350000
+386;387;Niphidium crassifolium (L.) Lellinger;1986;GBIF;Calawala;CATAMAYO;-79,299999999700006;-3,991683500040000
+387;388;Niphidium crassifolium (L.) Lellinger;1988;GBIF;Calawala;LOJA;-79,166330000299993;-3,983165000210000
+388;389;Niphidium crassifolium (L.) Lellinger;1989;GBIF;Calawala;LOJA;-79,166330000299993;-4,083165000010000
+389;390;Niphidium crassifolium (L.) Lellinger;1989;GBIF;Calawala;SARAGURO;-79,266330000099998;-3,616330000230000
+390;391;Niphidium crassifolium (L.) Lellinger;1993;GBIF;Calawala;PALTAS;-79,654550000200004;-4,088740000350000
+391;392;Niphidium crassifolium (L.) Lellinger;1994;GBIF;Calawala;CALVAS;-79,688074999799994;-4,324419999580000
+392;393;Niphidium crassifolium (L.) Lellinger;1994;GBIF;Calawala;LOJA;-79,306375000100005;-4,052799999970000
+393;394;Niphidium crassifolium (L.) Lellinger;1997;GBIF;Calawala;PUYANGO;-80,183164999900001;-3,983165000210000
+394;395;Niphidium crassifolium (L.) Lellinger;2002;GBIF;Calawala;LOJA;-79,128889000399994;-4,384444000390000
+395;396;Niphidium crassifolium (L.) Lellinger;2005;GBIF;Calawala;LOJA;-79,233121500300001;-3,892663000000000
+396;397;Niphidium crassifolium (L.) Lellinger;2005;GBIF;Calawala;SOZORANGA;-79,724757000200000;-4,367171999790000
+397;398;Niphidium crassifolium (L.) Lellinger;2008;GBIF;Calawala;CATAMAYO;-79,362440000399999;-3,982685000110000
+398;399;Niphidium crassifolium (L.) Lellinger;2008;GBIF;Calawala;CELICA;-79,955875999599996;-4,103168000200000
+399;400;Niphidium crassifolium (L.) Lellinger;2018;INaturalist;Calawala;LOJA;-79,205418999800003;-4,083474799820000
+400;401;Niphidium crassifolium (L.) Lellinger;2020;GBIF;Calawala;CALVAS;-79,552155999700005;-4,303156000150000
+401;402;Niphidium crassifolium (L.) Lellinger;2020;INaturalist;Calawala;CALVAS;-79,552156131900006;-4,303156317610000
+402;403;Niphidium crassifolium (L.) Lellinger;2023;INaturalist;Calawala;CELICA;-79,958439767100003;-4,103125749150000
+403;404;Niphidium crassifolium (L.) Lellinger;2024;INaturalist;Calawala;LOJA;-79,199645335200003;-4,033918654920000
+404;405;Niphidium crassifolium (L.) Lellinger;2024;Proyecto;Calawala;LOJA;-79,276024400400004;-3,869853500340000
+405;406;Niphogeton dissecta (Benth.) J.F. Macbr.;1985;Tropicos;Culantrillo;SARAGURO;-79,249999998899995;-3,670000000300000
+406;407;Niphogeton dissecta (Benth.) J.F. Macbr.;1988;Tropicos;Culantrillo;LOJA;-79,119999998799997;-4,384999999950000
+407;408;Niphogeton dissecta (Benth.) J.F. Macbr.;1989;Tropicos;Culantrillo;LOJA;-79,169999999599995;-4,100000000700000
+408;409;Niphogeton dissecta (Benth.) J.F. Macbr.;1994;Tropicos;Culantrillo;LOJA;-79,239999999999995;-4,019999999600000
+409;410;Niphogeton dissecta (Benth.) J.F. Macbr.;2024;Proyecto;Culantrillo;CATAMAYO;-79,230990000000006;-4,052610999800000
+410;411;Ocimum basilicum L.;1990;GBIF;Albahaca, albahaca  de sal, albahaca negra;LOJA;-79,215599999800006;-3,974200000030000
+411;412;Ocimum basilicum L.;2009;GBIF;Albahaca, albahaca  de sal, albahaca negra;LOJA;-79,204200000200004;-3,998486000330000
+412;413;Ocimum basilicum L.;2016;Investigación UTPL;Albahaca, albahaca  de sal, albahaca negra;CATAMAYO;-79,281013012200006;-3,995364226430000
+413;414;Ocimum basilicum L.;2016;Investigación UTPL;Albahaca, albahaca  de sal, albahaca negra;LOJA;-79,278692290099997;-4,027919751050000
+414;415;Ocimum basilicum L.;2017;GBIF;Albahaca, albahaca  de sal, albahaca negra;CATAMAYO;-79,304618999599995;-4,096860999840000
+415;416;Ocimum basilicum L.;2021;GBIF;Albahaca, albahaca  de sal, albahaca negra;LOJA;-79,222409999999996;-3,978506999900000
+416;417;Ocimum campechianum Mill.;1994;GBIF;Albahaca, albahaca blanca, albahaca de dulce;PALTAS;-79,661110999700000;-3,997221999600000
+417;418;Ocimum campechianum Mill.;2016;Investigación UTPL;Albahaca, albahaca blanca, albahaca de dulce;CATAMAYO;-79,277733684699996;-3,996171224070000
+418;419;Ocimum campechianum Mill.;2016;Investigación UTPL;Albahaca, albahaca blanca, albahaca de dulce;LOJA;-79,255275368100001;-3,916911539040000
+419;420;Ocimum campechianum Mill.;2024;Proyecto;Albahaca, albahaca blanca, albahaca de dulce;LOJA;-79,269752500099997;-3,911798999770000
+420;421;Oenothera rosea L'Her. ex Aiton;1981;Tropicos;Shullu;LOJA;-79,199999999900001;-4,000000000000000
+421;422;Oenothera rosea L'Her. ex Aiton;1988;Tropicos;Shullu;SARAGURO;-79,230000000199993;-3,629999999300000
+422;423;Oenothera rosea L'Her. ex Aiton;2016;Investigación UTPL;Shullu;CATAMAYO;-79,281013012200006;-3,996171224070000
+423;424;Oenothera rosea L'Her. ex Aiton;2016;Investigación UTPL;Shullu;LOJA;-79,255275368100001;-3,879304302150000
+424;425;Oenothera rosea L'Her. ex Aiton;2019;INaturalist;Shullu;LOJA;-79,201769361199993;-3,982802832880000
+425;426;Oenothera rosea L'Her. ex Aiton;2020;INaturalist;Shullu;LOJA;-79,203442985999999;-4,024797723990000
+426;427;Oenothera rosea L'Her. ex Aiton;2021;INaturalist;Shullu;LOJA;-79,208858333300000;-3,978858058350000
+427;428;Oenothera rosea L'Her. ex Aiton;2021;INaturalist;Shullu;SOZORANGA;-79,792291671100003;-4,333951702610000
+428;429;Oenothera rosea L'Her. ex Aiton;2022;INaturalist;Shullu;ESPINDOLA;-79,428873807599999;-4,585099899840000
+429;430;Oenothera rosea L'Her. ex Aiton;2022;INaturalist;Shullu;LOJA;-79,201840805600000;-4,014264470730000
+430;431;Oenothera rosea L'Her. ex Aiton;2022;INaturalist;Shullu;SOZORANGA;-79,801962776300002;-4,326002880130000
+431;432;Oenothera rosea L'Her. ex Aiton;2023;INaturalist;Shullu;LOJA;-79,222144700000001;-4,343879499440000
+432;433;Oenothera rosea L'Her. ex Aiton;2024;INaturalist;Shullu;CELICA;-80,016977302800001;-4,205490797760000
+433;434;Oenothera rosea L'Her. ex Aiton;2024;Proyecto;Shullu;LOJA;-79,284717000000001;-3,892931449430000
+434;435;Oreocallis grandiflora (Lam.) R. Br;1965;GBIF;Cucharillo, gañil;LOJA;-79,206666999800007;-4,033611000450000
+435;436;Oreocallis grandiflora (Lam.) R. Br;1972;GBIF;Cucharillo, gañil;GONZANAMA;-79,500000000200004;-4,083329999980000
+436;437;Oreocallis grandiflora (Lam.) R. Br;1973;GBIF;Cucharillo, gañil;LOJA;-79,231500000099999;-3,917999999750000
+437;438;Oreocallis grandiflora (Lam.) R. Br;1973;GBIF;Cucharillo, gañil;SARAGURO;-79,181665000600006;-3,581665000190000
+438;439;Oreocallis grandiflora (Lam.) R. Br;1973;Tropicos;Cucharillo, gañil;SARAGURO;-79,180000001200000;-3,580000000300000
+439;440;Oreocallis grandiflora (Lam.) R. Br;1976;GBIF;Cucharillo, gañil;ESPINDOLA;-79,332999999899997;-4,582999999950000
+440;441;Oreocallis grandiflora (Lam.) R. Br;1977;GBIF;Cucharillo, gañil;LOJA;-79,225378000199996;-4,262327999640000
+441;442;Oreocallis grandiflora (Lam.) R. Br;1977;GBIF;Cucharillo, gañil;SARAGURO;-79,238066999899999;-3,621747000020000
+442;443;Oreocallis grandiflora (Lam.) R. Br;1978;GBIF;Cucharillo, gañil;LOJA;-79,200832999599996;-4,088332999570000
+443;444;Oreocallis grandiflora (Lam.) R. Br;1982;GBIF;Cucharillo, gañil;CATAMAYO;-79,356910999899995;-3,986538999770000
+444;445;Oreocallis grandiflora (Lam.) R. Br;1982;GBIF;Cucharillo, gañil;LOJA;-79,266960999600002;-3,969088999960000
+445;446;Oreocallis grandiflora (Lam.) R. Br;1983;GBIF;Cucharillo, gañil;LOJA;-79,299999999700006;-3,983330000180000
+446;447;Oreocallis grandiflora (Lam.) R. Br;1983;Tropicos;Cucharillo, gañil;LOJA;-79,299999999700006;-3,980000000400000
+447;448;Oreocallis grandiflora (Lam.) R. Br;1984;GBIF;Cucharillo, gañil;CATAMAYO;-79,299499999999995;-4,008330000130000
+448;449;Oreocallis grandiflora (Lam.) R. Br;1984;GBIF;Cucharillo, gañil;LOJA;-79,241480499900007;-4,002741500070000
+449;450;Oreocallis grandiflora (Lam.) R. Br;1984;Tropicos;Cucharillo, gañil;CATAMAYO;-79,270000000300001;-4,019999999600000
+450;451;Oreocallis grandiflora (Lam.) R. Br;1984;Tropicos;Cucharillo, gañil;LOJA;-79,220000000400006;-3,999999999100000
+451;452;Oreocallis grandiflora (Lam.) R. Br;1986;GBIF;Cucharillo, gañil;SARAGURO;-79,249999998899995;-3,499999999200000
+452;453;Oreocallis grandiflora (Lam.) R. Br;1986;Tropicos;Cucharillo, gañil;SARAGURO;-79,249999998899995;-3,499999999200000
+453;454;Oreocallis grandiflora (Lam.) R. Br;1987;GBIF;Cucharillo, gañil;LOJA;-79,266960999600002;-3,969088999960000
+454;455;Oreocallis grandiflora (Lam.) R. Br;1987;GBIF;Cucharillo, gañil;SARAGURO;-79,249999999799996;-3,583330000080000
+455;456;Oreocallis grandiflora (Lam.) R. Br;1987;Tropicos;Cucharillo, gañil;SARAGURO;-79,249999998899995;-3,580000000300000
+456;457;Oreocallis grandiflora (Lam.) R. Br;1988;GBIF;Cucharillo, gañil;CATAMAYO;-79,299666500100003;-4,000000000000000
+457;458;Oreocallis grandiflora (Lam.) R. Br;1988;GBIF;Cucharillo, gañil;LOJA;-79,150000000000006;-3,916333499790000
+458;459;Oreocallis grandiflora (Lam.) R. Br;1989;GBIF;Cucharillo, gañil;OLMEDO;-79,583166500299996;-3,950000000100000
+459;460;Oreocallis grandiflora (Lam.) R. Br;1990;GBIF;Cucharillo, gañil;LOJA;-79,266664999800000;-3,991665000090000
+460;461;Oreocallis grandiflora (Lam.) R. Br;1990;Tropicos;Cucharillo, gañil;LOJA;-79,280000000100003;-3,980000000400000
+461;462;Oreocallis grandiflora (Lam.) R. Br;1991;GBIF;Cucharillo, gañil;CATAMAYO;-79,475000000199998;-3,975000000050000
+462;463;Oreocallis grandiflora (Lam.) R. Br;1991;GBIF;Cucharillo, gañil;LOJA;-79,249999998899995;-4,250000000400000
+463;464;Oreocallis grandiflora (Lam.) R. Br;1991;GBIF;Cucharillo, gañil;SARAGURO;-79,199999999900001;-3,583333000220000
+464;465;Oreocallis grandiflora (Lam.) R. Br;1991;Tropicos;Cucharillo, gañil;CATAMAYO;-79,474999998900003;-3,975000000050000
+465;466;Oreocallis grandiflora (Lam.) R. Br;1991;Tropicos;Cucharillo, gañil;LOJA;-79,249999998899995;-4,250000000400000
+466;467;Oreocallis grandiflora (Lam.) R. Br;1991;Tropicos;Cucharillo, gañil;SARAGURO;-79,199999999900001;-3,580000000300000
+467;468;Oreocallis grandiflora (Lam.) R. Br;1993;GBIF;Cucharillo, gañil;LOJA;-79,198056000199998;-4,160555999960000
+468;469;Oreocallis grandiflora (Lam.) R. Br;1994;GBIF;Cucharillo, gañil;CATAMAYO;-79,378190000100005;-3,976524999780000
+469;470;Oreocallis grandiflora (Lam.) R. Br;1994;GBIF;Cucharillo, gañil;ESPINDOLA;-79,451939999800004;-4,668609999850000
+470;471;Oreocallis grandiflora (Lam.) R. Br;1994;GBIF;Cucharillo, gañil;LOJA;-79,259324999900002;-4,017640000040000
+471;472;Oreocallis grandiflora (Lam.) R. Br;1994;GBIF;Cucharillo, gañil;PALTAS;-79,872775000299995;-4,035016500060000
+472;473;Oreocallis grandiflora (Lam.) R. Br;1994;GBIF;Cucharillo, gañil;SARAGURO;-79,264719999600004;-3,612769999740000
+473;474;Oreocallis grandiflora (Lam.) R. Br;1994;Tropicos;Cucharillo, gañil;CATAMAYO;-79,380000000300001;-3,974999999600000
+474;475;Oreocallis grandiflora (Lam.) R. Br;1994;Tropicos;Cucharillo, gañil;ESPINDOLA;-79,450000000299994;-4,670000000100000
+475;476;Oreocallis grandiflora (Lam.) R. Br;1994;Tropicos;Cucharillo, gañil;LOJA;-79,334999999900006;-3,880000000150000
+476;477;Oreocallis grandiflora (Lam.) R. Br;1994;Tropicos;Cucharillo, gañil;PALTAS;-79,870000000000005;-4,039999999200000
+477;478;Oreocallis grandiflora (Lam.) R. Br;1994;Tropicos;Cucharillo, gañil;SARAGURO;-79,259999999599998;-3,609999999700000
+478;479;Oreocallis grandiflora (Lam.) R. Br;1995;GBIF;Cucharillo, gañil;LOJA;-79,243049999899995;-4,021094499710000
+479;480;Oreocallis grandiflora (Lam.) R. Br;1995;GBIF;Cucharillo, gañil;PALTAS;-79,875000000300005;-4,033333000220000
+480;481;Oreocallis grandiflora (Lam.) R. Br;1996;GBIF;Cucharillo, gañil;LOJA;-79,286193999800005;-3,875288500060000
+481;482;Oreocallis grandiflora (Lam.) R. Br;1996;INaturalist;Cucharillo, gañil;LOJA;-79,272388350499995;-3,783876822560000
+482;483;Oreocallis grandiflora (Lam.) R. Br;1996;Tropicos;Cucharillo, gañil;LOJA;-79,299999999700006;-3,969999999700000
+483;484;Oreocallis grandiflora (Lam.) R. Br;1997;GBIF;Cucharillo, gañil;LOJA;-79,216649999699996;-3,999979999980000
+484;485;Oreocallis grandiflora (Lam.) R. Br;1997;Tropicos;Cucharillo, gañil;LOJA;-79,249999998899995;-4,019999999600000
+485;486;Oreocallis grandiflora (Lam.) R. Br;2002;GBIF;Cucharillo, gañil;LOJA;-79,190800000099998;-4,251099999870000
+486;487;Oreocallis grandiflora (Lam.) R. Br;2002;GBIF;Cucharillo, gañil;SARAGURO;-79,249999999799996;-3,550000000000000
+487;488;Oreocallis grandiflora (Lam.) R. Br;2003;GBIF;Cucharillo, gañil;LOJA;-79,216660000199994;-3,883330000380000
+488;489;Oreocallis grandiflora (Lam.) R. Br;2003;Tropicos;Cucharillo, gañil;LOJA;-79,220000000400006;-3,879999999700000
+489;490;Oreocallis grandiflora (Lam.) R. Br;2004;GBIF;Cucharillo, gañil;LOJA;-79,267525500000005;-3,902065500120000
+490;491;Oreocallis grandiflora (Lam.) R. Br;2005;GBIF;Cucharillo, gañil;ESPINDOLA;-79,443895000300003;-4,705018999830000
+491;492;Oreocallis grandiflora (Lam.) R. Br;2005;GBIF;Cucharillo, gañil;GONZANAMA;-79,391808000300003;-4,210815000110000
+492;493;Oreocallis grandiflora (Lam.) R. Br;2005;GBIF;Cucharillo, gañil;LOJA;-79,238334500099995;-3,864344999920000
+493;494;Oreocallis grandiflora (Lam.) R. Br;2006;GBIF;Cucharillo, gañil;CATAMAYO;-79,294746000200007;-3,999187000280000
+494;495;Oreocallis grandiflora (Lam.) R. Br;2006;GBIF;Cucharillo, gañil;LOJA;-79,274136000400006;-3,914552499950000
+495;496;Oreocallis grandiflora (Lam.) R. Br;2006;GBIF;Cucharillo, gañil;SARAGURO;-79,178706000000005;-3,646013000300000
+496;497;Oreocallis grandiflora (Lam.) R. Br;2006;GBIF;Cucharillo, gañil;SOZORANGA;-79,725270999700001;-4,366576000180000
+497;498;Oreocallis grandiflora (Lam.) R. Br;2007;GBIF;Cucharillo, gañil;ESPINDOLA;-79,421900000400001;-4,694099999920000
+498;499;Oreocallis grandiflora (Lam.) R. Br;2007;GBIF;Cucharillo, gañil;GONZANAMA;-79,346530999699993;-4,285560999940000
+499;500;Oreocallis grandiflora (Lam.) R. Br;2007;GBIF;Cucharillo, gañil;LOJA;-79,232084500100001;-3,967927500350000
+500;501;Oreocallis grandiflora (Lam.) R. Br;2007;GBIF;Cucharillo, gañil;SARAGURO;-79,166700000299997;-3,590000000100000
+501;502;Oreocallis grandiflora (Lam.) R. Br;2007;INaturalist;Cucharillo, gañil;LOJA;-79,172292132300001;-4,116491950940000
+502;503;Oreocallis grandiflora (Lam.) R. Br;2008;GBIF;Cucharillo, gañil;CATAMAYO;-79,362440000399999;-3,982685000110000
+503;504;Oreocallis grandiflora (Lam.) R. Br;2008;GBIF;Cucharillo, gañil;CELICA;-79,955875999599996;-4,103168000200000
+504;505;Oreocallis grandiflora (Lam.) R. Br;2008;GBIF;Cucharillo, gañil;LOJA;-79,232103000099997;-4,000249999840000
+505;506;Oreocallis grandiflora (Lam.) R. Br;2008;GBIF;Cucharillo, gañil;PALTAS;-79,650420000400004;-4,053818999750000
+506;507;Oreocallis grandiflora (Lam.) R. Br;2008;GBIF;Cucharillo, gañil;QUILANGA;-79,382966999999994;-4,291047000220000
+507;508;Oreocallis grandiflora (Lam.) R. Br;2011;GBIF;Cucharillo, gañil;ESPINDOLA;-79,363309000000001;-4,534508000340000
+508;509;Oreocallis grandiflora (Lam.) R. Br;2011;GBIF;Cucharillo, gañil;LOJA;-79,197505000000007;-4,036995000020000
+509;510;Oreocallis grandiflora (Lam.) R. Br;2011;GBIF;Cucharillo, gañil;OLMEDO;-79,581944000099995;-3,961943999620000
+510;511;Oreocallis grandiflora (Lam.) R. Br;2011;GBIF;Cucharillo, gañil;SARAGURO;-79,228009000100002;-3,624990000290000
+511;512;Oreocallis grandiflora (Lam.) R. Br;2011;INaturalist;Cucharillo, gañil;LOJA;-79,197505000000007;-4,036995000020000
+512;513;Oreocallis grandiflora (Lam.) R. Br;2011;INaturalist;Cucharillo, gañil;SARAGURO;-79,228008787899995;-3,624989833910000
+513;514;Oreocallis grandiflora (Lam.) R. Br;2011;Tropicos;Cucharillo, gañil;OLMEDO;-79,580000000400005;-3,959999999900000
+514;515;Oreocallis grandiflora (Lam.) R. Br;2012;GBIF;Cucharillo, gañil;CATAMAYO;-79,474085000299993;-3,974657999570000
+515;516;Oreocallis grandiflora (Lam.) R. Br;2012;INaturalist;Cucharillo, gañil;CATAMAYO;-79,474084914900004;-3,974658146160000
+516;517;Oreocallis grandiflora (Lam.) R. Br;2014;GBIF;Cucharillo, gañil;CALVAS;-79,672663000000000;-4,387420000030000
+517;518;Oreocallis grandiflora (Lam.) R. Br;2014;INaturalist;Cucharillo, gañil;CALVAS;-79,672663199599995;-4,387419800380000
+518;519;Oreocallis grandiflora (Lam.) R. Br;2015;GBIF;Cucharillo, gañil;LOJA;-79,143083000299995;-3,831502999860000
+519;520;Oreocallis grandiflora (Lam.) R. Br;2016;GBIF;Cucharillo, gañil;LOJA;-79,214163000100001;-3,923343000180000
+520;521;Oreocallis grandiflora (Lam.) R. Br;2016;GBIF;Cucharillo, gañil;PALTAS;-79,734522499999997;-4,027491499730000
+521;522;Oreocallis grandiflora (Lam.) R. Br;2016;INaturalist;Cucharillo, gañil;LOJA;-79,214162893999998;-3,923343329330000
+522;523;Oreocallis grandiflora (Lam.) R. Br;2016;INaturalist;Cucharillo, gañil;PALTAS;-79,734522682999994;-4,027491737150000
+523;524;Oreocallis grandiflora (Lam.) R. Br;2016;Investigación UTPL;Cucharillo, gañil;CATAMAYO;-79,267596125099999;-3,991171820420000
+524;525;Oreocallis grandiflora (Lam.) R. Br;2016;Investigación UTPL;Cucharillo, gañil;LOJA;-79,253331282500000;-3,836605101140000
+525;526;Oreocallis grandiflora (Lam.) R. Br;2016;Investigación UTPL;Cucharillo, gañil;SARAGURO;-79,319826195399997;-3,597700609700000
+526;527;Oreocallis grandiflora (Lam.) R. Br;2017;GBIF;Cucharillo, gañil;LOJA;-79,189403999600003;-4,032607000010000
+527;528;Oreocallis grandiflora (Lam.) R. Br;2017;INaturalist;Cucharillo, gañil;LOJA;-79,189404370999995;-4,032606965840000
+528;529;Oreocallis grandiflora (Lam.) R. Br;2018;INaturalist;Cucharillo, gañil;ESPINDOLA;-79,410382993599995;-4,650751410150000
+529;530;Oreocallis grandiflora (Lam.) R. Br;2019;GBIF;Cucharillo, gañil;LOJA;-79,186804000199999;-4,274654999730000
+530;531;Oreocallis grandiflora (Lam.) R. Br;2019;INaturalist;Cucharillo, gañil;LOJA;-79,192399975000001;-4,155051188560000
+531;532;Oreocallis grandiflora (Lam.) R. Br;2019;INaturalist;Cucharillo, gañil;SOZORANGA;-79,725970777399993;-4,377148069980000
+532;533;Oreocallis grandiflora (Lam.) R. Br;2020;GBIF;Cucharillo, gañil;CATAMAYO;-79,295882999599996;-4,061191999810000
+533;534;Oreocallis grandiflora (Lam.) R. Br;2020;GBIF;Cucharillo, gañil;LOJA;-79,190469499700001;-4,137247999800000
+534;535;Oreocallis grandiflora (Lam.) R. Br;2020;GBIF;Cucharillo, gañil;SARAGURO;-79,323616000100003;-3,534082000230000
+535;536;Oreocallis grandiflora (Lam.) R. Br;2020;INaturalist;Cucharillo, gañil;CATAMAYO;-79,295883121000003;-4,061191684150000
+536;537;Oreocallis grandiflora (Lam.) R. Br;2020;INaturalist;Cucharillo, gañil;LOJA;-79,190469171000004;-4,137248145940000
+537;538;Oreocallis grandiflora (Lam.) R. Br;2020;INaturalist;Cucharillo, gañil;SARAGURO;-79,323615780200001;-3,534082015070000
+538;539;Oreocallis grandiflora (Lam.) R. Br;2021;GBIF;Cucharillo, gañil;CATAMAYO;-79,231527999600004;-4,054731999580000
+539;540;Oreocallis grandiflora (Lam.) R. Br;2021;GBIF;Cucharillo, gañil;LOJA;-79,185262499700002;-4,044014499970000
+540;541;Oreocallis grandiflora (Lam.) R. Br;2021;INaturalist;Cucharillo, gañil;CALVAS;-79,725394025100002;-4,364725995810000
+541;542;Oreocallis grandiflora (Lam.) R. Br;2021;INaturalist;Cucharillo, gañil;CATAMAYO;-79,231527842199995;-4,054732141670000
+542;543;Oreocallis grandiflora (Lam.) R. Br;2021;INaturalist;Cucharillo, gañil;ESPINDOLA;-79,441560046399999;-4,711158220880000
+543;544;Oreocallis grandiflora (Lam.) R. Br;2021;INaturalist;Cucharillo, gañil;LOJA;-79,185262404800000;-4,044014557530000
+544;545;Oreocallis grandiflora (Lam.) R. Br;2021;INaturalist;Cucharillo, gañil;SOZORANGA;-79,725362844700001;-4,366504155140000
+545;546;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;CALVAS;-79,699061999700007;-4,338889000430000
+546;547;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;CATAMAYO;-79,265991999799994;-3,991383000130000
+547;548;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;LOJA;-79,233596500100006;-3,923540500290000
+548;549;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;OLMEDO;-79,574954999799999;-3,972593999710000
+549;550;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;SARAGURO;-79,306619500099998;-3,611719999880000
+550;551;Oreocallis grandiflora (Lam.) R. Br;2022;GBIF;Cucharillo, gañil;SOZORANGA;-79,725502999599996;-4,366230999560000
+551;552;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;CALVAS;-79,699062253299999;-4,338889428500000
+552;553;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;CATAMAYO;-79,265991667099996;-3,991383332870000
+553;554;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;CELICA;-79,930161666299995;-4,076941666720000
+554;555;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;LOJA;-79,230072281899993;-3,923540694100000
+555;556;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;OLMEDO;-79,574954980000001;-3,972594270410000
+556;557;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;SARAGURO;-79,306619530700004;-3,611720072270000
+557;558;Oreocallis grandiflora (Lam.) R. Br;2022;INaturalist;Cucharillo, gañil;SOZORANGA;-79,725502777399996;-4,366230555300000
+558;559;Oreocallis grandiflora (Lam.) R. Br;2023;GBIF;Cucharillo, gañil;LOJA;-79,198791499899997;-3,989601499810000
+559;560;Oreocallis grandiflora (Lam.) R. Br;2023;GBIF;Cucharillo, gañil;OLMEDO;-79,580091500099996;-3,959536999680000
+560;561;Oreocallis grandiflora (Lam.) R. Br;2023;GBIF;Cucharillo, gañil;SARAGURO;-79,279113499700003;-3,628245999800000
+561;562;Oreocallis grandiflora (Lam.) R. Br;2023;INaturalist;Cucharillo, gañil;CATAMAYO;-79,258004017299996;-4,003438967930000
+562;563;Oreocallis grandiflora (Lam.) R. Br;2023;INaturalist;Cucharillo, gañil;CELICA;-79,930153333199996;-4,076949999840000
+563;564;Oreocallis grandiflora (Lam.) R. Br;2023;INaturalist;Cucharillo, gañil;LOJA;-79,216279191699996;-3,989601741280000
+564;565;Oreocallis grandiflora (Lam.) R. Br;2023;INaturalist;Cucharillo, gañil;OLMEDO;-79,580091474000000;-3,959537249240000
+565;566;Oreocallis grandiflora (Lam.) R. Br;2023;INaturalist;Cucharillo, gañil;SARAGURO;-79,307340283299993;-3,594326854750000
+566;567;Oreocallis grandiflora (Lam.) R. Br;2024;GBIF;Cucharillo, gañil;LOJA;-79,251595000099996;-4,110523500360000
+567;568;Oreocallis grandiflora (Lam.) R. Br;2024;GBIF;Cucharillo, gañil;SARAGURO;-79,447477000000006;-3,564658999710000
+568;569;Oreocallis grandiflora (Lam.) R. Br;2024;INaturalist;Cucharillo, gañil;CALVAS;-79,629978344600005;-4,371467208640000
+569;570;Oreocallis grandiflora (Lam.) R. Br;2024;INaturalist;Cucharillo, gañil;LOJA;-79,251594882700005;-4,110400850370000
+570;571;Oreocallis grandiflora (Lam.) R. Br;2024;INaturalist;Cucharillo, gañil;SARAGURO;-79,447476641099996;-3,564658627390000
+571;572;Oreocallis grandiflora (Lam.) R. Br;2024;Proyecto;Cucharillo, gañil;CATAMAYO;-79,294523700400006;-4,103507700220000
+572;573;Orthosia ellemannii (Morillo) Liede & Mevea;1988;GBIF;Cola de caballo;LOJA;-79,150000000000006;-3,916349999650000
+573;575;Oxalis corniculata L.;1989;GBIF;Chulco, chulku;SARAGURO;-79,233165000000000;-3,566330000330000
+574;576;Oxalis corniculata L.;1989;Tropicos;Chulco, chulku;SARAGURO;-79,230000000199993;-3,569999999600000
+575;577;Oxalis corniculata L.;1994;GBIF;Chulco, chulku;LOJA;-79,207349999800002;-3,985300000190000
+576;578;Oxalis corniculata L.;2004;GBIF;Chulco, chulku;LOJA;-79,198498999899996;-3,986646000210000
+577;579;Oxalis corniculata L.;2007;INaturalist;Chulco, chulku;LOJA;-79,215939993000006;-4,254720533730000
+578;580;Oxalis corniculata L.;2020;INaturalist;Chulco, chulku;LOJA;-79,216537039499997;-3,999278013020000
+579;581;Oxalis corniculata L.;2021;GBIF;Chulco, chulku;LOJA;-79,174847000100002;-4,041801000420000
+580;582;Oxalis corniculata L.;2021;INaturalist;Chulco, chulku;LOJA;-79,174847195200002;-4,041800683850000
+581;583;Oxalis corniculata L.;2023;INaturalist;Chulco, chulku;LOJA;-79,197602777800000;-3,987258333310000
+582;584;Pelargonium graveolens L'Hér.ex. Aiton;2016;Investigación UTPL;Esencia de rosa, malva esencia;CATAMAYO;-79,280315718300002;-3,995105034170000
+583;585;Pelargonium graveolens L'Hér.ex. Aiton;2016;Investigación UTPL;Esencia de rosa, malva esencia;LOJA;-79,254994130699998;-3,881812415560000
+584;586;Pelargonium graveolens L'Hér.ex. Aiton;2024;Proyecto;Esencia de rosa, malva esencia;LOJA;-79,297481403299997;-3,867935523410000
+585;587;Pelargonium odoratissimum (L.) L'Hér.;2002;GBIF;Malva olorosa;LOJA;-79,246033000300002;-3,973167000060000
+586;588;Pelargonium odoratissimum (L.) L'Hér.;2005;GBIF;Malva olorosa;GONZANAMA;-79,391808000300003;-4,210815000110000
+587;589;Pelargonium odoratissimum (L.) L'Hér.;2007;GBIF;Malva olorosa;LOJA;-79,265799999999999;-3,703933000310000
+588;590;Pelargonium odoratissimum (L.) L'Hér.;2008;GBIF;Malva olorosa;CELICA;-79,955875999599996;-4,103168000200000
+589;591;Pelargonium odoratissimum (L.) L'Hér.;2008;GBIF;Malva olorosa;PALTAS;-79,650420000400004;-4,053818999750000
+590;592;Pelargonium odoratissimum (L.) L'Hér.;2009;GBIF;Malva olorosa;LOJA;-79,204200000200004;-3,998486000330000
+591;593;Pelargonium odoratissimum (L.) L'Hér.;2016;Investigación UTPL;Malva olorosa;LOJA;-79,279857099599994;-4,055696331820000
+592;594;Pelargonium odoratissimum (L.) L'Hér.;2016;Investigación UTPL;Malva olorosa;SARAGURO;-79,317560945300002;-3,596131968120000
+593;595;Pelargonium odoratissimum (L.) L'Hér.;2016;Investigación UTPL;Malva Olorosa;LOJA;-79,167767820199998;-3,858946515370000
+594;596;Pelargonium odoratissimum (L.) L'Hér.;2024;Proyecto;Malva olorosa;LOJA;-79,290709320399998;-3,852244192820000
+595;597;Pelargonium odoratissimum (L.) L´Hér.;2024;Proyecto;Malva olorosa;LOJA;-79,297836277599998;-3,869643743810000
+596;598;Pelargonium zonale (L.) L'Hér.;1982;GBIF;Geranio, geranio rojo;LOJA;-79,198674999999994;-4,037084999670000
+597;599;Pelargonium zonale (L.) L'Hér.;1996;GBIF;Geranio, geranio rojo;CATAMAYO;-79,236900000000006;-4,098299999650000
+598;600;Pelargonium zonale (L.) L'Hér.;2004;GBIF;Geranio, geranio rojo;LOJA;-79,198302499899995;-4,012633500290000
+599;601;Pelargonium zonale (L.) L'Hér.;2008;GBIF;Geranio, geranio rojo;CELICA;-79,955875999599996;-4,103168000200000
+600;602;Pelargonium zonale (L.) L'Hér.;2015;GBIF;Geranio, geranio rojo;MACARA;-79,799219999599998;-4,429722000170000
+601;603;Peperomia galioides Kunth;1946;GBIF;Congona de cerro, sacha congona;LOJA;-79,215278000300003;-3,916527499740000
+602;604;Peperomia galioides Kunth;1946;GBIF;Congona de cerro, sacha congona;PUYANGO;-79,984952999599997;-3,961318999570000
+603;605;Peperomia galioides Kunth;1966;GBIF;Congona de cerro, sacha congona;LOJA;-79,228332999800003;-3,965555999810000
+604;606;Peperomia galioides Kunth;1967;GBIF;Congona de cerro, sacha congona;LOJA;-79,199999999900001;-4,100000000700000
+605;607;Peperomia galioides Kunth;1967;Tropicos;Congona de cerro, sacha congona;LOJA;-79,199999999900001;-4,100000000700000
+606;608;Peperomia galioides Kunth;1982;GBIF;Congona de cerro, sacha congona;LOJA;-79,208300000400001;-4,074999999850000
+607;609;Peperomia galioides Kunth;1984;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,333166499900003;-4,000000000000000
+608;610;Peperomia galioides Kunth;1984;GBIF;Congona de cerro, sacha congona;LOJA;-79,199833499899995;-4,041666500060000
+609;611;Peperomia galioides Kunth;1984;Tropicos;Congona de cerro, sacha congona;CATAMAYO;-79,329999999999998;-3,999999999100000
+610;612;Peperomia galioides Kunth;1984;Tropicos;Congona de cerro, sacha congona;LOJA;-79,220000000400006;-3,999999999100000
+611;613;Peperomia galioides Kunth;1988;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,299650000200003;-4,000000000000000
+612;614;Peperomia galioides Kunth;1988;GBIF;Congona de cerro, sacha congona;LOJA;-79,299979999700000;-3,974664999890000
+613;615;Peperomia galioides Kunth;1988;GBIF;Congona de cerro, sacha congona;SARAGURO;-79,233165000000000;-3,633165000010000
+614;616;Peperomia galioides Kunth;1988;Tropicos;Congona de cerro, sacha congona;CATAMAYO;-79,270000000300001;-3,999999999100000
+615;617;Peperomia galioides Kunth;1988;Tropicos;Congona de cerro, sacha congona;LOJA;-79,300000000099999;-3,974999999600000
+616;618;Peperomia galioides Kunth;1988;Tropicos;Congona de cerro, sacha congona;SARAGURO;-79,230000000199993;-3,629999999300000
+617;619;Peperomia galioides Kunth;1989;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,380994619999996;-3,916349999650000
+618;620;Peperomia galioides Kunth;1989;GBIF;Congona de cerro, sacha congona;PALTAS;-79,529999999599994;-4,019999999600000
+619;621;Peperomia galioides Kunth;1989;Tropicos;Congona de cerro, sacha congona;CATAMAYO;-79,419999999100000;-3,919999999800000
+620;622;Peperomia galioides Kunth;1994;GBIF;Congona de cerro, sacha congona;CALVAS;-79,666376260000007;-4,355285000200000
+621;623;Peperomia galioides Kunth;1994;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,274999999800002;-4,000814999810000
+622;624;Peperomia galioides Kunth;1994;GBIF;Congona de cerro, sacha congona;CELICA;-79,951660000299995;-4,093610000100000
+623;625;Peperomia galioides Kunth;1994;GBIF;Congona de cerro, sacha congona;PALTAS;-79,868495352400004;-4,078739999650000
+624;626;Peperomia galioides Kunth;1994;Tropicos;Congona de cerro, sacha congona;CALVAS;-79,699999999799999;-4,360000000000000
+625;627;Peperomia galioides Kunth;1994;Tropicos;Congona de cerro, sacha congona;CATAMAYO;-79,280000000100003;-3,999999999100000
+626;628;Peperomia galioides Kunth;1994;Tropicos;Congona de cerro, sacha congona;CELICA;-79,950000000200006;-4,090000000000000
+627;629;Peperomia galioides Kunth;1994;Tropicos;Congona de cerro, sacha congona;PALTAS;-79,899999999399995;-4,060000000600000
+628;630;Peperomia galioides Kunth;1995;GBIF;Congona de cerro, sacha congona;LOJA;-79,199999999900001;-4,233300000090000
+629;631;Peperomia galioides Kunth;1996;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,236944000299999;-4,098333000270000
+630;632;Peperomia galioides Kunth;1998;GBIF;Congona de cerro, sacha congona;LOJA;-79,183165000100004;-4,033165000110000
+631;633;Peperomia galioides Kunth;1999;GBIF;Congona de cerro, sacha congona;GONZANAMA;-79,516329999600003;-4,250000000400000
+632;634;Peperomia galioides Kunth;1999;GBIF;Congona de cerro, sacha congona;LOJA;-79,249999999799996;-3,800000000400000
+633;635;Peperomia galioides Kunth;1999;Tropicos;Congona de cerro, sacha congona;GONZANAMA;-79,519999999800007;-4,250000000400000
+634;636;Peperomia galioides Kunth;1999;Tropicos;Congona de cerro, sacha congona;LOJA;-79,249999999799996;-3,800000000400000
+635;637;Peperomia galioides Kunth;2001;GBIF;Congona de cerro, sacha congona;CATAMAYO;-79,327250000000006;-3,973165000410000
+636;638;Peperomia galioides Kunth;2001;GBIF;Congona de cerro, sacha congona;CELICA;-79,917999999900005;-4,131664999990000
+637;639;Peperomia galioides Kunth;2001;GBIF;Congona de cerro, sacha congona;LOJA;-79,229100000100004;-4,048450000370000
+638;640;Peperomia galioides Kunth;2001;GBIF;Congona de cerro, sacha congona;PALTAS;-79,586470000199995;-4,052250000240000
+639;641;Peperomia galioides Kunth;2001;Tropicos;Congona de cerro, sacha congona;CATAMAYO;-79,329999999999998;-3,969999999700000
+640;642;Peperomia galioides Kunth;2001;Tropicos;Congona de cerro, sacha congona;CELICA;-79,919999999900000;-4,130000000100000
+641;643;Peperomia galioides Kunth;2001;Tropicos;Congona de cerro, sacha congona;LOJA;-79,230000000199993;-4,049999999900000
+642;644;Peperomia galioides Kunth;2001;Tropicos;Congona de cerro, sacha congona;PALTAS;-79,590000000200007;-4,049999999900000
+643;645;Peperomia galioides Kunth;2003;GBIF;Congona de cerro, sacha congona;LOJA;-79,216663499899994;-3,883331500000000
+644;646;Peperomia galioides Kunth;2003;Tropicos;Congona de cerro, sacha congona;LOJA;-79,220000000400006;-3,879999999700000
+645;647;Peperomia galioides Kunth;2004;INaturalist;Congona de cerro, sacha congona;LOJA;-79,216698299599997;-4,258460400430000
+646;648;Peperomia galioides Kunth;2005;GBIF;Congona de cerro, sacha congona;LOJA;-79,252744000400000;-3,984412999760000
+647;649;Peperomia galioides Kunth;2005;GBIF;Congona de cerro, sacha congona;PUYANGO;-79,996799999999993;-3,986900000230000
+648;650;Peperomia galioides Kunth;2006;GBIF;Congona de cerro, sacha congona;LOJA;-79,227643500300005;-4,047598000200000
+649;651;Peperomia galioides Kunth;2006;GBIF;Congona de cerro, sacha congona;SARAGURO;-79,187631999700002;-3,642612999990000
+650;652;Peperomia galioides Kunth;2007;GBIF;Congona de cerro, sacha congona;LOJA;-79,233050000099993;-3,873749999710000
+651;653;Peperomia galioides Kunth;2008;GBIF;Congona de cerro, sacha congona;LOJA;-79,203949999900004;-4,073449999870000
+652;654;Peperomia galioides Kunth;2009;GBIF;Congona de cerro, sacha congona;MACARA;-79,916667000000004;-4,233332999820000
+653;655;Peperomia galioides Kunth;2009;GBIF;Congona de cerro, sacha congona;SOZORANGA;-79,844839644600000;-4,233300000090000
+654;656;Peperomia galioides Kunth;2011;GBIF;Congona de cerro, sacha congona;LOJA;-79,244749999600003;-4,307749999760000
+655;657;Peperomia galioides Kunth;2011;GBIF;Congona de cerro, sacha congona;SARAGURO;-79,198610999699994;-3,594443999990000
+656;658;Peperomia galioides Kunth;2011;Tropicos;Congona de cerro, sacha congona;SARAGURO;-79,199999999900001;-3,590000000100000
+657;659;Peperomia galioides Kunth;2012;GBIF;Congona de cerro, sacha congona;LOJA;-79,313551999599994;-3,908018000330000
+658;660;Peperomia galioides Kunth;2016;Investigación UTPL;Congona de cerro, sacha congona;LOJA;-79,342220441199999;-3,847495482830000
+659;661;Peperomia galioides Kunth;2020;GBIF;Congona de cerro, sacha congona;CALVAS;-79,547184999799995;-4,308716000240000
+660;662;Peperomia galioides Kunth;2020;INaturalist;Congona de cerro, sacha congona;CALVAS;-79,547185498000005;-4,308716194500000
+661;663;Peperomia galioides Kunth;2023;INaturalist;Congona de cerro, sacha congona;LOJA;-79,244076311200004;-3,961994562200000
+662;664;Peperomia galioides Kunth;2024;INaturalist;Congona de cerro, sacha congona;LOJA;-79,179316696800001;-4,011192819640000
+663;665;Peperomia galioides Kunth;2024;Proyecto;Congona de cerro, sacha congona;LOJA;-79,284333000299995;-3,905200499900000
+664;666;Peperomia ilaloensis Sodiro;1989;GBIF;Congona de castilla,congona  negra;SARAGURO;-79,249999999799996;-3,566680000280000
+665;667;Peperomia ilaloensis Sodiro;2008;GBIF;Congona de castilla,congona  negra;PALTAS;-79,650420000400004;-4,053818999750000
+666;668;Peperomia ilaloensis Sodiro;2016;Investigación UTPL;Congona de castilla,congona  negra;CATAMAYO;-79,267596125099999;-3,991171820420000
+667;669;Peperomia ilaloensis Sodiro;2016;Investigación UTPL;Congona de castilla,congona  negra;LOJA;-79,254994130699998;-3,951437821350000
+668;670;Peperomia ilaloensis Sodiro;2017;GBIF;Congona de castilla,congona  negra;CATAMAYO;-79,298275000199993;-4,127265999930000
+669;671;Peperomia inaequalifolia Ruiz & Pav.;1989;GBIF;Congona, congona grande;SARAGURO;-79,249999999799996;-3,566000000400000
+670;672;Peperomia inaequalifolia Ruiz & Pav.;1993;GBIF;Congona, congona grande;LOJA;-79,198674999999994;-4,037084999670000
+671;673;Peperomia inaequalifolia Ruiz & Pav.;2004;GBIF;Congona, congona grande;LOJA;-79,342199999599998;-3,831900000180000
+672;674;Peperomia inaequalifolia Ruiz & Pav.;2007;GBIF;Congona, congona grande;LOJA;-79,265799999999999;-3,703933000310000
+673;675;Peperomia inaequalifolia Ruiz & Pav.;2009;GBIF;Congona, congona grande;LOJA;-79,204200000200004;-3,998486000330000
+674;676;Peperomia inaequalifolia Ruiz & Pav.;2024;INaturalist;Congona, congona grande;MACARA;-79,905502181200006;-4,336463352600000
+675;677;Peperomia inaequalifolia Ruiz & Pav.;2024;Proyecto;Congona, congona grande;LOJA;-79,344940487499997;-3,829831503270000
+676;678;Phyla scaberrima (A. Juss. ex Pers.) Moldenke;2024;Proyecto;Buscapina,  novalgina;LOJA;-79,328436999900006;-3,869270000410000
+677;679;Piper crassinervium Kunth;1993;GBIF;Waviduca de dulce;LOJA;-79,198674999999994;-4,037084999670000
+678;680;Piper crassinervium Kunth;1995;GBIF;Waviduca de dulce;LOJA;-79,199999999900001;-4,233300000090000
+679;681;Piper crassinervium Kunth;1996;GBIF;Waviduca de dulce;CATAMAYO;-79,536900000299994;-3,910800000020000
+680;682;Piper crassinervium Kunth;2007;GBIF;Waviduca de dulce;PUYANGO;-79,979196000300007;-4,000743000090000
+681;683;Pityrogramma ebenea (L.) Proctor;1973;GBIF;Doradilla plateada, luna plateada;SARAGURO;-79,169999999599995;-3,569999999600000
+682;684;Pityrogramma ebenea (L.) Proctor;1994;GBIF;Doradilla plateada, luna plateada;LOJA;-79,184710000300001;-4,268074999810000
+683;685;Pityrogramma ebenea (L.) Proctor;1994;Tropicos;Doradilla plateada, luna plateada;LOJA;-79,180000001200000;-4,270000000000000
+684;686;Plantago major L.;1946;GBIF;Llantén;LOJA;-79,199999999900001;-4,000000000000000
+685;687;Plantago major L.;1965;GBIF;Llantén;LOJA;-79,206700000400005;-4,033599999940000
+686;688;Plantago major L.;1977;GBIF;Llantén;LOJA;-79,249999999799996;-4,300000000300000
+687;689;Plantago major L.;1981;GBIF;Llantén;LOJA;-79,199999999900001;-4,000000000000000
+688;690;Plantago major L.;1981;Tropicos;Llantén;LOJA;-79,199999999900001;-4,000000000000000
+689;691;Plantago major L.;1985;GBIF;Llantén;LOJA;-79,206700000400005;-4,033599999940000
+690;692;Plantago major L.;1989;GBIF;Llantén;LOJA;-79,199999999900001;-4,000000000000000
+691;693;Plantago major L.;1994;GBIF;Llantén;LOJA;-79,183299999599996;-3,983299999700000
+692;694;Plantago major L.;1996;GBIF;Llantén;LOJA;-79,203332999799997;-4,000000000000000
+693;695;Plantago major L.;2004;GBIF;Llantén;LOJA;-79,342199999599998;-3,831900000180000
+694;696;Plantago major L.;2006;GBIF;Llantén;SARAGURO;-79,178706000000005;-3,646013000300000
+695;697;Plantago major L.;2008;GBIF;Llantén;CATAMAYO;-79,362440000399999;-3,982685000110000
+696;698;Plantago major L.;2008;GBIF;Llantén;CELICA;-79,955875999599996;-4,103168000200000
+697;699;Plantago major L.;2009;GBIF;Llantén;LOJA;-79,204200000200004;-3,998486000330000
+698;700;Plantago major L.;2015;GBIF;Llantén;SOZORANGA;-79,767458999900001;-4,426974000250000
+699;701;Plantago major L.;2016;Investigación UTPL;Llantén;CATAMAYO;-79,282018050900007;-3,997012132000000
+700;702;Plantago major L.;2016;Investigación UTPL;Llantén;LOJA;-79,255275368100001;-4,002086398820000
+701;703;Plantago major L.;2017;GBIF;Llantén;CATAMAYO;-79,301812999700005;-4,112819000100000
+702;704;Plantago major L.;2017;GBIF;Llantén;LOJA;-79,185585999799997;-3,957266999770000
+703;705;Plantago major L.;2020;GBIF;Llantén;LOJA;-79,206987000100000;-4,020129499730000
+704;706;Plantago major L.;2020;INaturalist;Llantén;LOJA;-79,207156513399994;-4,003677949280000
+705;707;Plantago major L.;2020;INaturalist;Llantén;ZAPOTILLO;-80,214952826800001;-4,309782508060000
+706;708;Plantago major L.;2021;GBIF;Llantén;LOJA;-79,194324999900005;-4,013619000320000
+707;709;Plantago major L.;2021;INaturalist;Llantén;LOJA;-79,203767807199995;-3,989172453500000
+708;710;Plantago major L.;2021;INaturalist;Llantén;ZAPOTILLO;-80,357453333199999;-4,272274999690000
+709;711;Plantago major L.;2022;GBIF;Llantén;LOJA;-79,201942000399995;-4,012936000300000
+710;712;Plantago major L.;2022;GBIF;Llantén;SOZORANGA;-79,793349999599997;-4,336467000250000
+711;713;Plantago major L.;2022;INaturalist;Llantén;PALTAS;-79,871897000199993;-3,899382972650000
+712;714;Plantago major L.;2022;INaturalist;Llantén;SOZORANGA;-79,793349999599997;-4,336466666600000
+713;715;Plantago major L.;2023;GBIF;Llantén;LOJA;-79,177427000400002;-4,380369000430000
+714;716;Plantago major L.;2023;INaturalist;Llantén;CELICA;-79,958439767100003;-4,103125749150000
+715;717;Plantago major L.;2023;INaturalist;Llantén;LOJA;-79,194639773899993;-4,203944176080000
+716;718;Plantago major L.;2023;INaturalist;Llantén;ZAPOTILLO;-80,240017739799995;-4,305147899560000
+717;719;Plantago major L.;2024;INaturalist;Llantén;LOJA;-79,211747222400007;-4,025947222590000
+718;720;Plantago major L.;2024;Proyecto;Llantén;LOJA;-79,290906999900002;-3,869580499890000
+719;721;Sambucus nigra L.;1994;GBIF;Sauco, tilo;LOJA;-79,198674999999994;-4,037084999670000
+720;722;Sambucus nigra L.;2004;GBIF;Sauco, tilo;LOJA;-79,243475999799998;-3,961697999960000
+721;723;Sambucus nigra L.;2009;GBIF;Sauco, tilo;LOJA;-79,204200000200004;-3,998486000330000
+722;724;Sambucus nigra L.;2012;GBIF;Sauco, tilo;LOJA;-79,202802999699998;-4,014472000080000
+723;725;Sambucus nigra L.;2015;GBIF;Sauco, tilo;MACARA;-79,771929000100002;-4,426981999720000
+724;726;Sambucus nigra L.;2016;Investigación UTPL;Sauco, tilo;CATAMAYO;-79,281013012200006;-3,996171224070000
+725;727;Sambucus nigra L.;2016;Investigación UTPL;Sauco, tilo;LOJA;-79,255275368100001;-3,822067476630000
+726;728;Sambucus nigra L.;2017;GBIF;Sauco, tilo;CATAMAYO;-79,307561000299998;-4,072941000230000
+727;729;Sambucus nigra L.;2017;GBIF;Sauco, tilo;LOJA;-79,207518000400000;-4,030078000300000
+728;730;Sambucus nigra L.;2023;INaturalist;Sauco, tilo;LOJA;-79,189208763500005;-4,031607931010000
+729;731;Sambucus nigra L.;2023;INaturalist;Sauco, tilo;SARAGURO;-79,412286666800000;-3,488713333050000
+730;732;Sambucus nigra L.;2024;GBIF;Sauco, tilo;LOJA;-79,200115999900007;-4,001440499880000
+731;733;Sambucus nigra L.;2024;INaturalist;Sauco, tilo;LOJA;-79,200115870399998;-4,000816786320000
+732;734;Sambucus nigra L.;2024;Proyecto;Sauco, tilo;LOJA;-79,279321499800005;-3,904633500290000
+733;735;Sanguisorba minor subsp. muricata  (Bonnier & Layens) Briq.;2024;Proyecto;Pimpinela;LOJA;-79,339834499800006;-3,851210999940000
+734;736;Solanum americanum Mill.;1965;GBIF;Hierba mora, mortiño;LOJA;-79,209999999700003;-3,950000000100000
+735;737;Solanum americanum Mill.;1977;GBIF;Hierba mora, mortiño;PUYANGO;-79,984952999599997;-3,961318999570000
+736;738;Solanum americanum Mill.;1978;GBIF;Hierba mora, mortiño;LOJA;-79,249999998899995;-4,250000000400000
+737;739;Solanum americanum Mill.;1978;Tropicos;Hierba mora, mortiño;LOJA;-79,249999998899995;-4,250000000400000
+738;740;Solanum americanum Mill.;1980;GBIF;Hierba mora, mortiño;PUYANGO;-80,083330000100005;-3,916600000390000
+739;741;Solanum americanum Mill.;1980;Tropicos;Hierba mora, mortiño;PUYANGO;-80,080000000300004;-3,919999999800000
+740;742;Solanum americanum Mill.;1981;GBIF;Hierba mora, mortiño;PALTAS;-79,781221999699994;-4,044292000180000
+741;743;Solanum americanum Mill.;1982;GBIF;Hierba mora, mortiño;PUYANGO;-79,984952999599997;-3,961318999570000
+742;744;Solanum americanum Mill.;1984;GBIF;Hierba mora, mortiño;LOJA;-79,216333499900003;-4,300000000300000
+743;745;Solanum americanum Mill.;1984;Tropicos;Hierba mora, mortiño;LOJA;-79,220000000400006;-4,300000000300000
+744;746;Solanum americanum Mill.;1986;GBIF;Hierba mora, mortiño;LOJA;-79,202943999900000;-4,022722000120000
+745;747;Solanum americanum Mill.;1994;GBIF;Hierba mora, mortiño;CATAMAYO;-79,349999999600001;-4,000000000000000
+746;748;Solanum americanum Mill.;1994;GBIF;Hierba mora, mortiño;LOJA;-79,206679999900004;-4,024999999950000
+747;749;Solanum americanum Mill.;1994;GBIF;Hierba mora, mortiño;PALTAS;-79,733316500200004;-3,983316500010000
+748;750;Solanum americanum Mill.;1994;Tropicos;Hierba mora, mortiño;LOJA;-79,220000000400006;-4,049999999900000
+749;751;Solanum americanum Mill.;1995;GBIF;Hierba mora, mortiño;LOJA;-79,199999999900001;-4,233300000090000
+750;752;Solanum americanum Mill.;1995;GBIF;Hierba mora, mortiño;MACARA;-79,841683500000002;-4,394422000080000
+751;753;Solanum americanum Mill.;2001;GBIF;Hierba mora, mortiño;ESPINDOLA;-79,386099999699994;-4,566700000100000
+752;754;Solanum americanum Mill.;2004;GBIF;Hierba mora, mortiño;LOJA;-79,199618499799996;-3,994682000270000
+753;755;Solanum americanum Mill.;2007;GBIF;Hierba mora, mortiño;LOJA;-79,269150999800004;-3,707268000320000
+754;756;Solanum americanum Mill.;2007;GBIF;Hierba mora, mortiño;SARAGURO;-79,222499999700005;-3,625099999960000
+755;757;Solanum americanum Mill.;2008;GBIF;Hierba mora, mortiño;CATAMAYO;-79,362440000399999;-3,982685000110000
+756;758;Solanum americanum Mill.;2009;GBIF;Hierba mora, mortiño;LOJA;-79,204200000200004;-3,998486000330000
+757;759;Solanum americanum Mill.;2015;GBIF;Hierba mora, mortiño;MACARA;-79,789138999700000;-4,433332000270000
+758;760;Solanum americanum Mill.;2017;GBIF;Hierba mora, mortiño;CATAMAYO;-79,307561000299998;-4,072941000230000
+759;761;Solanum americanum Mill.;2019;GBIF;Hierba mora, mortiño;LOJA;-79,325303000100007;-4,209573000390000
+760;762;Solanum americanum Mill.;2019;INaturalist;Hierba mora, mortiño;LOJA;-79,325303411099995;-4,209572814230000
+761;763;Solanum americanum Mill.;2021;INaturalist;Hierba mora, mortiño;CHAGUARPAMBA;-79,562080688500004;-3,880483401490000
+762;764;Solanum americanum Mill.;2022;GBIF;Hierba mora, mortiño;LOJA;-79,221066000099995;-4,261876000380000
+763;765;Solanum americanum Mill.;2022;INaturalist;Hierba mora, mortiño;LOJA;-79,221065505499993;-4,261875825910000
+764;766;Solanum americanum Mill.;2023;GBIF;Hierba mora, mortiño;LOJA;-79,204764999800005;-4,176195999950000
+765;767;Solanum americanum Mill.;2023;INaturalist;Hierba mora, mortiño;LOJA;-79,204764986699999;-4,176196453200000
+766;768;Solanum americanum Mill.;2024;INaturalist;Hierba mora, mortiño;LOJA;-79,209316666899994;-4,024819443960000
+767;769;Solanum americanum Mill.;2024;Proyecto;Hierba mora, mortiño;LOJA;-79,286120499999996;-3,904626499960000
+768;770;Sonchus oleraceus L.;1988;Tropicos;Kana yuyu, cerraja;SARAGURO;-79,220000000400006;-3,620000000400000
+769;771;Sonchus oleraceus L.;1989;Tropicos;Kana yuyu, cerraja;SARAGURO;-79,230000000199993;-3,569999999600000
+770;772;Sonchus oleraceus L.;2020;INaturalist;Kana yuyu, cerraja;LOJA;-79,207473545100001;-4,020190413960000
+771;773;Sonchus oleraceus L.;2022;INaturalist;Kana yuyu, cerraja;LOJA;-79,215393333400002;-4,006262500110000
+772;774;Sonchus oleraceus L.;2023;INaturalist;Kana yuyu, cerraja;CELICA;-79,958439767100003;-4,103125749150000
+773;775;Sonchus oleraceus L.;2023;INaturalist;Kana yuyu, cerraja;OLMEDO;-79,580458025100000;-3,961658626740000
+774;776;Sonchus oleraceus L.;2024;INaturalist;Kana yuyu, cerraja;LOJA;-79,196878333499996;-4,006597216990000
+775;777;Sonchus oleraceus L.;2024;Proyecto;Kana yuyu, cerraja;CATAMAYO;-79,230990000000006;-4,052610999800000
+776;778;Streptosolen jamesonii (Benth.) Miers;1921;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,216666999599994;-4,000000000000000
+777;779;Streptosolen jamesonii (Benth.) Miers;1921;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,220000000400006;-3,999999999100000
+778;780;Streptosolen jamesonii (Benth.) Miers;1923;GBIF;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,333329999800000;-4,033330000080000
+779;781;Streptosolen jamesonii (Benth.) Miers;1923;Tropicos;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,329999999999998;-4,030000001200000
+780;782;Streptosolen jamesonii (Benth.) Miers;1947;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,216666999599994;-4,000000000000000
+781;783;Streptosolen jamesonii (Benth.) Miers;1947;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,249999999799996;-3,649999999800000
+782;784;Streptosolen jamesonii (Benth.) Miers;1947;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,220000000400006;-3,999999999100000
+783;785;Streptosolen jamesonii (Benth.) Miers;1959;GBIF;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,550000000099999;-4,333000000450000
+784;786;Streptosolen jamesonii (Benth.) Miers;1959;Tropicos;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,550000000099999;-4,329999999700000
+785;787;Streptosolen jamesonii (Benth.) Miers;1961;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,216660000199994;-3,866599999590000
+786;788;Streptosolen jamesonii (Benth.) Miers;1961;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,220000000400006;-3,869999999000000
+787;789;Streptosolen jamesonii (Benth.) Miers;1965;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,209999999700003;-3,950000000100000
+788;790;Streptosolen jamesonii (Benth.) Miers;1965;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,209999999700003;-3,950000000100000
+789;791;Streptosolen jamesonii (Benth.) Miers;1966;GBIF;Flor de quinde, flor del sol, jaboncillo;PUYANGO;-79,984952999599997;-3,961318999570000
+790;792;Streptosolen jamesonii (Benth.) Miers;1973;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,168000000000006;-3,568000000000000
+791;793;Streptosolen jamesonii (Benth.) Miers;1973;Tropicos;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,169999999599995;-3,569999999600000
+792;794;Streptosolen jamesonii (Benth.) Miers;1977;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,226105500000003;-4,147603000230000
+793;795;Streptosolen jamesonii (Benth.) Miers;1977;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,238066999899999;-3,621747000020000
+794;796;Streptosolen jamesonii (Benth.) Miers;1982;GBIF;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,428455500100000;-3,984934499980000
+795;797;Streptosolen jamesonii (Benth.) Miers;1982;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,233000000000004;-3,915999999700000
+796;798;Streptosolen jamesonii (Benth.) Miers;1984;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,224950000199996;-3,970814999960000
+797;799;Streptosolen jamesonii (Benth.) Miers;1984;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,225000000300000;-3,970000000150000
+798;800;Streptosolen jamesonii (Benth.) Miers;1986;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,169999999599995;-4,199999999600000
+799;801;Streptosolen jamesonii (Benth.) Miers;1986;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,169999999599995;-4,199999999600000
+800;802;Streptosolen jamesonii (Benth.) Miers;1988;GBIF;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,316667000300001;-3,983333000320000
+801;803;Streptosolen jamesonii (Benth.) Miers;1988;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,233165000000000;-3,633165000010000
+802;804;Streptosolen jamesonii (Benth.) Miers;1988;Tropicos;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,230000000199993;-3,629999999300000
+803;805;Streptosolen jamesonii (Benth.) Miers;1990;GBIF;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,433164999599995;-4,700000000400000
+804;806;Streptosolen jamesonii (Benth.) Miers;1990;GBIF;Flor de quinde, flor del sol, jaboncillo;PALTAS;-79,916329999699997;-4,066330000230000
+805;807;Streptosolen jamesonii (Benth.) Miers;1990;Tropicos;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,429999999800003;-4,700000000400000
+806;808;Streptosolen jamesonii (Benth.) Miers;1990;Tropicos;Flor de quinde, flor del sol, jaboncillo;PALTAS;-79,919999999900000;-4,070000000400000
+807;809;Streptosolen jamesonii (Benth.) Miers;1994;GBIF;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,673330000199996;-4,314439999810000
+808;810;Streptosolen jamesonii (Benth.) Miers;1994;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,199999999900001;-4,176666500060000
+809;811;Streptosolen jamesonii (Benth.) Miers;1994;GBIF;Flor de quinde, flor del sol, jaboncillo;PALTAS;-79,873401499899998;-4,061581500240000
+810;812;Streptosolen jamesonii (Benth.) Miers;1994;Tropicos;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,670000000399995;-4,310000000100000
+811;813;Streptosolen jamesonii (Benth.) Miers;1994;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,199999999900001;-4,175000000550000
+812;814;Streptosolen jamesonii (Benth.) Miers;1994;Tropicos;Flor de quinde, flor del sol, jaboncillo;PALTAS;-79,890000000499995;-4,060000000600000
+813;815;Streptosolen jamesonii (Benth.) Miers;1996;GBIF;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,299999999700006;-4,000000000000000
+814;816;Streptosolen jamesonii (Benth.) Miers;1997;GBIF;Flor de quinde, flor del sol, jaboncillo;QUILANGA;-79,416699999800002;-4,283299999990000
+815;817;Streptosolen jamesonii (Benth.) Miers;2003;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,187218500000000;-3,935415000200000
+816;818;Streptosolen jamesonii (Benth.) Miers;2003;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,190000000100000;-3,934999999950000
+817;819;Streptosolen jamesonii (Benth.) Miers;2004;GBIF;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,477500000399999;-3,955416499870000
+818;820;Streptosolen jamesonii (Benth.) Miers;2004;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,195415000300002;-4,210421500400000
+819;821;Streptosolen jamesonii (Benth.) Miers;2004;Tropicos;Flor de quinde, flor del sol, jaboncillo;CATAMAYO;-79,480000000600000;-3,959999999900000
+820;822;Streptosolen jamesonii (Benth.) Miers;2004;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,195000000400000;-4,254999999850000
+821;823;Streptosolen jamesonii (Benth.) Miers;2005;GBIF;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,550000000099999;-4,333332999620000
+822;824;Streptosolen jamesonii (Benth.) Miers;2005;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,211322999999993;-4,031490999810000
+823;825;Streptosolen jamesonii (Benth.) Miers;2005;GBIF;Flor de quinde, flor del sol, jaboncillo;PUYANGO;-79,984952999599997;-3,961318999570000
+824;826;Streptosolen jamesonii (Benth.) Miers;2005;GBIF;Flor de quinde, flor del sol, jaboncillo;SOZORANGA;-79,726914999900004;-4,369725999760000
+825;827;Streptosolen jamesonii (Benth.) Miers;2005;Tropicos;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,550000000099999;-4,329999999700000
+826;828;Streptosolen jamesonii (Benth.) Miers;2006;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,157785000199993;-4,370815000060000
+827;829;Streptosolen jamesonii (Benth.) Miers;2006;Tropicos;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,159999999799993;-4,369999999800000
+828;830;Streptosolen jamesonii (Benth.) Miers;2007;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,205800000300002;-3,928800000020000
+829;831;Streptosolen jamesonii (Benth.) Miers;2008;GBIF;Flor de quinde, flor del sol, jaboncillo;CELICA;-79,955875999599996;-4,103168000200000
+830;832;Streptosolen jamesonii (Benth.) Miers;2009;GBIF;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,461489000399993;-4,637459999580000
+831;833;Streptosolen jamesonii (Benth.) Miers;2009;GBIF;Flor de quinde, flor del sol, jaboncillo;MACARA;-79,891170999600007;-4,378725000160000
+832;834;Streptosolen jamesonii (Benth.) Miers;2009;INaturalist;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,461488727000003;-4,637460165050000
+833;835;Streptosolen jamesonii (Benth.) Miers;2009;INaturalist;Flor de quinde, flor del sol, jaboncillo;MACARA;-79,891170738800000;-4,378724851770000
+834;836;Streptosolen jamesonii (Benth.) Miers;2014;GBIF;Flor de quinde, flor del sol, jaboncillo;MACARA;-79,794582999799999;-4,453388999800000
+835;837;Streptosolen jamesonii (Benth.) Miers;2014;Proyecto;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,359526852599998;-3,784780808490000
+836;838;Streptosolen jamesonii (Benth.) Miers;2016;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,211173999899998;-3,920297000010000
+837;839;Streptosolen jamesonii (Benth.) Miers;2016;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,211174243599999;-3,920296571030000
+838;840;Streptosolen jamesonii (Benth.) Miers;2017;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,191921000099995;-4,036388499930000
+839;841;Streptosolen jamesonii (Benth.) Miers;2019;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,178214999800005;-4,348126000110000
+840;842;Streptosolen jamesonii (Benth.) Miers;2019;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,178215026800004;-4,348126411100000
+841;843;Streptosolen jamesonii (Benth.) Miers;2020;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,201380500200003;-4,031993500050000
+842;844;Streptosolen jamesonii (Benth.) Miers;2020;INaturalist;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,544392438900005;-4,316343567350000
+843;845;Streptosolen jamesonii (Benth.) Miers;2020;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,263313334900005;-3,954058000180000
+844;846;Streptosolen jamesonii (Benth.) Miers;2021;GBIF;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,637712499800003;-4,340104999850000
+845;847;Streptosolen jamesonii (Benth.) Miers;2021;GBIF;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,461111000100004;-4,657303000030000
+846;848;Streptosolen jamesonii (Benth.) Miers;2021;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,209756000100001;-4,136478999860000
+847;849;Streptosolen jamesonii (Benth.) Miers;2021;INaturalist;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,639298636400000;-4,364890212010000
+848;850;Streptosolen jamesonii (Benth.) Miers;2021;INaturalist;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,465027222000003;-4,640032222510000
+849;851;Streptosolen jamesonii (Benth.) Miers;2021;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,221382449900005;-4,136478799760000
+850;852;Streptosolen jamesonii (Benth.) Miers;2022;GBIF;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,699303000000000;-4,337468999690000
+851;853;Streptosolen jamesonii (Benth.) Miers;2022;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,225403000000000;-4,179498000230000
+852;854;Streptosolen jamesonii (Benth.) Miers;2022;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,247810999600006;-3,623667000430000
+853;855;Streptosolen jamesonii (Benth.) Miers;2022;INaturalist;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,699302585400005;-4,337468815330000
+854;856;Streptosolen jamesonii (Benth.) Miers;2022;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,225403072800006;-4,179497779000000
+855;857;Streptosolen jamesonii (Benth.) Miers;2022;INaturalist;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,247811111100006;-3,623666666780000
+856;858;Streptosolen jamesonii (Benth.) Miers;2023;GBIF;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,393817000400006;-4,581895000250000
+857;859;Streptosolen jamesonii (Benth.) Miers;2023;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,301512500200005;-4,115726500180000
+858;860;Streptosolen jamesonii (Benth.) Miers;2023;GBIF;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,190518999800005;-3,643038999850000
+859;861;Streptosolen jamesonii (Benth.) Miers;2023;INaturalist;Flor de quinde, flor del sol, jaboncillo;ESPINDOLA;-79,393817000400006;-4,581894549690000
+860;862;Streptosolen jamesonii (Benth.) Miers;2023;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,301512484900002;-4,111273690080000
+861;863;Streptosolen jamesonii (Benth.) Miers;2023;INaturalist;Flor de quinde, flor del sol, jaboncillo;SARAGURO;-79,190519444000003;-3,643038889230000
+862;864;Streptosolen jamesonii (Benth.) Miers;2024;GBIF;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,179586500100001;-4,010879000320000
+863;865;Streptosolen jamesonii (Benth.) Miers;2024;INaturalist;Flor de quinde, flor del sol, jaboncillo;CALVAS;-79,717431666899998;-4,365900833260000
+864;866;Streptosolen jamesonii (Benth.) Miers;2024;INaturalist;Flor de quinde, flor del sol, jaboncillo;GONZANAMA;-79,380234055700001;-4,132621596710000
+865;867;Streptosolen jamesonii (Benth.) Miers;2024;INaturalist;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,183945833300001;-4,185269999760000
+866;868;Streptosolen jamesonii (Benth.) Miers;2024;Proyecto;Flor de quinde, flor del sol, jaboncillo;LOJA;-79,228403000300005;-4,058804000300000
+867;869;Tagetes filifolia Lag.;1967;Tropicos;Anís;GONZANAMA;-79,529999998700006;-4,120000000300000
+868;870;Tagetes filifolia Lag.;1973;Tropicos;Anís;SARAGURO;-79,169999999599995;-3,569999999600000
+869;871;Tagetes filifolia Lag.;1988;Tropicos;Anís;SARAGURO;-79,230000000199993;-3,569999999600000
+870;872;Tagetes filifolia Lag.;2016;Investigación UTPL;Anís;LOJA;-79,275767234300005;-4,002140166140000
+871;873;Tagetes filifolia Lag.;2016;Investigación UTPL;Anís;SARAGURO;-79,319826195399997;-3,597700609700000
+872;874;Taraxacum officinale F.H. Wigg.;2016;Investigación UTPL;Diente de León;LOJA;-79,256403649899994;-3,946423397670000
+873;875;Tradescantia zebrina Heynh. Ex Bosse;1946;GBIF;Calcha;LOJA;-79,216100000400004;-4,236700000400000
+874;876;Tradescantia zebrina Heynh. Ex Bosse;1986;GBIF;Calcha;LOJA;-79,198674999999994;-4,037084999670000
+875;877;Tradescantia zebrina Heynh. Ex Bosse;2007;GBIF;Calcha;LOJA;-79,265799999999999;-3,703933000310000
+876;878;Tradescantia zebrina Heynh. Ex Bosse;2008;GBIF;Calcha;CELICA;-79,955875999599996;-4,103168000200000
+877;879;Tradescantia zebrina Heynh. Ex Bosse;2014;GBIF;Calcha;MACARA;-79,812055999799995;-4,437000000350000
+878;880;Tradescantia zebrina Heynh. Ex Bosse;2020;GBIF;Calcha;LOJA;-79,247933999899999;-3,990206999850000
+879;881;Tradescantia zebrina Heynh. Ex Bosse;2023;GBIF;Calcha;LOJA;-79,221389999699994;-4,265270000410000
+880;882;Triumfetta semitriloba Jacq;1967;GBIF;Abrojo, cadillo, mostrante;LOJA;-79,209999999700003;-4,319999999900000
+881;883;Triumfetta semitriloba Jacq;1967;Tropicos;Abrojo, cadillo, mostrante;LOJA;-79,209999999700003;-4,319999999900000
+882;884;Triumfetta semitriloba Jacq;1977;GBIF;Abrojo, cadillo, mostrante;LOJA;-79,174605999799994;-4,362633000010000
+883;885;Triumfetta semitriloba Jacq;1989;GBIF;Abrojo, cadillo, mostrante;SARAGURO;-79,241499999900000;-3,558330000130000
+884;886;Triumfetta semitriloba Jacq;1989;Tropicos;Abrojo, cadillo, mostrante;SARAGURO;-79,239999999600002;-3,559999999800000
+885;887;Triumfetta semitriloba Jacq;2022;INaturalist;Abrojo, cadillo, mostrante;LOJA;-79,198408937300002;-3,982092244360000
+886;888;Triumfetta semitriloba Jacq;2022;INaturalist;Abrojo, cadillo, mostrante;MACARA;-79,966554047700001;-4,331044593730000
+887;889;Triumfetta semitriloba Jacq;2024;INaturalist;Abrojo, cadillo, mostrante;LOJA;-79,162284999999997;-4,357999166730000
+888;890;Triumfetta semitriloba Jacq;2024;Proyecto;Abrojo, cadillo, mostrante;LOJA;-79,288441371399998;-3,893703561920000
+889;891;Viola odorata L.;2024;Proyecto;Violeta, violeta de jardín;LOJA;-79,284821999900004;-3,892756000240000
+890;892;Viola tricolor L.;2004;GBIF;Pensamiento;LOJA;-79,270349499800005;-3,909273000200000
+891;893;Viola tricolor L.;2009;GBIF;Pensamiento;LOJA;-79,204200000200004;-3,998486000330000
+892;894;Viola tricolor L.;2014;GBIF;Pensamiento;LOJA;-79,198674999999994;-4,037084999670000
