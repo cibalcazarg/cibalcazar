@@ -9,6 +9,10 @@
     <!-- font icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="https://themify.me/themify-icons.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/geemap"></script>
+
     <!-- Bootstrap + JohnDoe main styles -->
 	<link rel="stylesheet" href="assets/css/johndoe.css">
 </head>
@@ -63,7 +67,7 @@
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="#ecolideres" class="nav-link">Ecolideres la Cascarilla</a>                   
+                        <a href="#ecolideres" class="nav-link">Volunteering</a>                   
                     </li>
                 </ul>
             </div>
@@ -295,7 +299,7 @@ Created predictive models and applied remote sensing for species distribution, n
                     <a href="#" data-filter=".papers">
                         Papers
                     </a>
-                    
+                    <!-- Environmental data-->
                 </div>
                 <div class="portfolio-container"> 
                     <div class="col-lg-6 col-md-6 col-sm-12 new">
@@ -313,17 +317,37 @@ Created predictive models and applied remote sensing for species distribution, n
 
                     <div class="col-lg-6 col-md-6 col-sm-12 new">
                         <div class="portfolio-item">
-                            <img src="assets/imgs/web-1.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                            <img src="assets/imgs/land.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
                             <div class="content-holder">
-                                <a class="img-popup" href="assets/imgs/web-1.png"></a>
+                                <a class="img-popup" href="assets/imgs/land.png"></a>
                                 <div class="text-holder">
-                                    <h6 class="title">Hydrological Modelling</h6>
-                                    <p class="subtitle">Application of QGIS tools for hydrological modelling and drainage analysis.</p>
+                                    <h6 class="title">MODIS Land Cover Map</h6>
+                                    <p class="subtitle">Visualization of the MODIS MCD12C1 v6.1 Land Cover dataset for South America, developed in Google Earth Engine and ArcMap.</p>
                                 </div>
                             </div>   
                         </div>             
-                    </div>   
+                    </div>                        
                     
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 new">
+                        <div class="portfolio-item">
+                        <!-- Mapa interactivo -->
+                         <div class="ratio ratio-4x3">
+                            <iframe 
+                            src="https://www.arcgis.com/apps/MapJournal/index.html?appid=daa258dd3140445091d4a479a8004ae4"
+                            width="100%" 
+                            height="500" 
+                            frameborder="0" 
+                            scrolling="no"
+                            allowfullscreen>
+                        </iframe>
+                        </div>
+                        </div>
+                    </div>
+
+
+                 <!-- clima -->
+                                        
                     <div class="col-lg-6 col-md-6 col-sm-12 climate">
                         <div class="portfolio-item">
                             <img src="assets/imgs/r_studio.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
@@ -335,7 +359,48 @@ Created predictive models and applied remote sensing for species distribution, n
                                 </div>
                             </div>   
                         </div>             
+                    </div>         
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 climate">
+                        <div class="portfolio-item">
+                            <img src="assets/imgs/climate.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                            <div class="content-holder">
+                                <a class="img-popup" href="assets/imgs/climate.png"></a>
+                                <div class="text-holder">
+                                    <h6 class="title">Climate vulnerability index for South America</h6>
+                                    <p class="subtitle">This map presents a composite climate vulnerability index for South America derived from WorldClim temperature and precipitation variables and MODIS forest cover data.</p>
+                                </div>
+                            </div>   
+                        </div>             
                     </div> 
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 climate">
+                        <div class="portfolio-item">
+                            <img src="assets/imgs/coast.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                            <div class="content-holder">
+                                <a class="img-popup" href="assets/imgs/coast.png"></a>
+                                <div class="text-holder">
+                                    <h6 class="title">Great Lakes Surface Temperature Data</h6>
+                                    <p class="subtitle">Access and analyze Great Lakes Surface Environmental Analysis (GLSEA) satellite-derived sea surface temperature (SST) data using geodetic coordinates (latitude and longitude). Tutorial from NOAA CoastWatch</p>
+                                </div>
+                            </div>   
+                        </div>             
+                    </div> 
+
+                    <div class="col-lg-6 col-md-6 col-sm-12 climate">
+                        <div class="portfolio-item">
+                            <img src="assets/imgs/temperature.gif" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                            <div class="content-holder">
+                                <a class="img-popup" href="assets/imgs/temperature.gif"></a>
+                                <div class="text-holder">
+                                    <h6 class="title">Average Monthly Temperature in South America (1950–2025)</h6>
+                                    <p class="subtitle">This animation illustrates the monthly variation of near-surface air temperature across South America between 1950 and 2025. The data were obtained from the European Centre for Medium-Range Weather Forecasts (ECMWF) ERA5-Land reanalysis dataset, accessed through Google Earth Engine. The visualization and animation were produced using the Python library geemap.</p>
+                                </div>
+                            </div>   
+                        </div>             
+                    </div>
+                
+                <!-- Papers -->
                     <div class="col-lg-6 col-md-6 col-sm-12 papers">
                         <div class="portfolio-item">
                             <img src="assets/imgs/Figura3.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
@@ -348,6 +413,7 @@ Created predictive models and applied remote sensing for species distribution, n
                             </div>   
                         </div>             
                     </div> 
+
                     <div class="col-lg-6 col-md-6 col-sm-12 papers">
                         <div class="portfolio-item">
                             <img src="assets/imgs/gualel-01.png" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
@@ -360,6 +426,7 @@ Created predictive models and applied remote sensing for species distribution, n
                             </div>   
                         </div>             
                     </div> 
+
                 </div> 
             </div>  
         </div>            
@@ -531,6 +598,20 @@ Created predictive models and applied remote sensing for species distribution, n
                         </div>
                     </div>
 
+
+                     <div class="col-md-6 col-lg-4 others">
+                        <div class="portfolio-item">
+                            <img src="assets/imgs/ADA.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
+                            <div class="content-holder">
+                                <a class="img-popup" href="assets/imgs/ADA.jpg"></a>
+                                <div class="text-holder">
+                                    <h6 class="title">Supporting activities related to animal protection and welfare.</h6>                                    
+                                </div>
+                            </div>   
+                        </div>
+                    </div>
+
+                    
                     <div class="col-md-6 col-lg-4 others">
                         <div class="portfolio-item">
                             <img src="assets/imgs/directive.jpg" class="img-fluid" alt="Download free bootstrap 4 admin dashboard, free boootstrap 4 templates">
@@ -542,6 +623,7 @@ Created predictive models and applied remote sensing for species distribution, n
                             </div>   
                         </div>
                     </div>
+
 
 
                                    
